@@ -104,7 +104,7 @@ Additionally, we try to enforce the [code of conduct](CODE_OF_CONDUCT.md) and ba
 
 We have Element channels for real-time discussions on Bepro-js and general questions. Join the conversation.
 
-- [Telegram](t.me/betprotocol)
+- [Telegram](https://t.me/betprotocol)
 - [Discord](https://discord.gg/fM6ZEfED)
 
 ## :information_source: License <!-- omit in toc -->
