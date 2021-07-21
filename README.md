@@ -12,14 +12,9 @@
   - [Support](#support)
   - [Team](#team)
 - [:pencil: Process](#pencil-process)
-- [:mailbox_with_mail: Request for Proposals (RFP) Suggestions](#mailbox_with_mail-request-for-proposals-rfp-suggestions)
 - [:bulb: Help](#bulb-help)
   - [Additional information](#additional-information)
   - [Real-time conversation](#real-time-conversation)
-- [:rocket: Alternative Funding Sources](#rocket-alternative-funding-sources)
-  - [Treasury](#treasury)
-  - [Hackathons](#hackathons)
-  - [Other Grant Programs](#other-grant-programs)
 
 ## :wave: Introduction
 
