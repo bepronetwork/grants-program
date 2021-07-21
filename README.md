@@ -64,6 +64,7 @@ The committee consists of individuals who know the funding priorities of the Bep
 - [Rui Pedro](https://github.com/ruiub3i)
 - [Joao Gonçalves](https://github.com/moshmage)
 - [Filipe Pinho](https://github.com/filipepinho)
+- [Andre Moniz](https://github.com/andremoniz)
 - [Justin Wu](https://github.com/justinwu)
 
 ## :pencil: Process
