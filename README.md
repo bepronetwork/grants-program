@@ -82,7 +82,7 @@ The committee consists of individuals who know the funding priorities of the Bep
    4. Fill out the template with the details of your project. The more information you provide, the faster the review. To get an idea of what a strong application looks like, you can have a look at the following examples:  [1](https://github.com/w3f/Grants-Program/blob/master/applications/project_aurras_mvp_phase_1.md), [2](https://github.com/w3f/Grants-Program/blob/master/applications/project_bodhi.md), [3](https://github.com/w3f/Grants-Program/blob/master/applications/pontem.md), [4](https://github.com/w3f/Grants-Program/blob/master/applications/spartan_poc_consensus_module.md). Naturally, if you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
    5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
    6. You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
-   7. Sign off on the [terms and conditions](src/T&Cs.md)
+   7. Sign off on the [terms and conditions](T&Cs.md)
 
 2. **Application Review**
    1. The [committee](#grants-committee) can (and usually does) issue comments and request changes on the pull request.
@@ -101,45 +101,15 @@ Additionally, we try to enforce the [code of conduct](CODE_OF_CONDUCT.md) and ba
 
 ### Additional information
 
-| <img src="src/web.png?s=50" width="50"> | <img src="src/twitter.png?s=50" width="50"> | <img src="src/medium.png?s=50" width="50"> | <img src="src/like.png?s=50" width="50"> | <img src="src/reddit.png?s=50" width="50"> | <img src="src/youtube-play.png?s=50" width="50"> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [W3F Website](https://web3.foundation) | [W3F Twitter](https://twitter.com/web3foundation) | [W3F Medium](https://medium.com/web3foundation) | [Polkadot Wiki](https://wiki.polkadot.network/en/) | [Web 3.0 Reddit](https://www.reddit.com/r/web3) | [W3F YouTube](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g) |
+| [Website](https://bepro.network) | [Twitter](https://twitter.com/bepronet) | [Medium](https://medium.com/bepronetwork) 
 
 ### Real-time conversation
 
-We have Element channels for real-time discussions on Web3 and Polkadot. Join the conversation.
+We have Element channels for real-time discussions on Bepro-js and general questions. Join the conversation.
 
-- [Web3 Foundation](https://app.element.io/#/room/#w3f:matrix.org)
-- [Polkadot Watercooler](https://app.element.io/#/room/#polkadot-watercooler:web3.foundation)
-
-## :rocket: Alternative Funding Sources
-
-Some funding sources might be more and some less suitable for your project throughout its various stages. We encourage you to explore alternative funding options listed below. Please note, however, that you should not seek to fund the **same scope of work** from multiple sources and that any team found doing so will have its Web3 Foundation support terminated.
-
-### Treasury
-
-The treasury is a pot of on-chain funds collected through transaction fees, slashing, staking inefficiencies, etc. The funds held in the treasury can be spent on spending proposals. Both [Polkadot](https://polkadot.network/) and [Kusama](https://kusama.network/) offer everyone the opportunity to apply for funding via the treasury. See:
-
-- [Treasury Wiki](https://wiki.polkadot.network/docs/en/learn-treasury)
-- [Polkadot Treasury Guide](https://docs.google.com/document/d/1IZykdp2cyQavcRyZd_dgNj5DcgxgZR6kAqGdcNARu1w)
-- [Kusama Treasury Guide](https://docs.google.com/document/d/1p3UQUjph5t8TVaWnTkfrI5mE-BABnM9Xvtuhdlhl6JE)
-
-### Hackathons
-
-From time to time, Web3 Foundation and/or Parity organise hackathons to promote quick prototyping of Polkadot related ideas. We highly encourage you to participate in these hackathons. Bear in mind, however, that you cannot submit the **same work** for a hackathon and the Grants Program. If you have worked on a project for a hackathon, your grant application should either propose a new set of features or otherwise build on top of your previous work. The same applies in reverse, although that will likely be less common.
-
-The best way to find out about upcoming hackathons is by following Polkadot on the various channels, such as Element or Twitter.
-
-### Other Grant Programs
-
-Below is a list of other grant programs in the Polkadot/Substrate ecosystem:
-
-- [Darwinia Grants Program](https://docs.darwinia.network/docs/en/dev-bounty#grant-program)
-- [Moonbeam Grants Program](https://moonbeam.network/community/grants/)
-- [Edgeware Grants and Bounties](https://github.com/edgeware-builders/construction-projects)
-- [Crust Grants Program](https://github.com/crustio/Crust-Grants-Program)
-- [HydraDX Grants and Bounties](https://docs.hydradx.io/new_deal)
-- [Plasm Network Builders Program](https://github.com/PlasmNetwork/Builders-Program)
+- [Telegram](t.me/betprotocol)
+- [Discord](https://discord.gg/fM6ZEfED)
 
 ## :information_source: License <!-- omit in toc -->
 
