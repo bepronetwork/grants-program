@@ -1,7 +1,7 @@
 # BEPRO Grants Program
 
 <p align="center">
-  <img src="src/grants.png" style="width:1300px";>
+  <img src="grants.png" style="width:1300px";>
 </p>
 
 ---
