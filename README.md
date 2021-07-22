@@ -97,7 +97,7 @@ Additionally, we try to enforce the [code of conduct](CODE_OF_CONDUCT.md)
 
 ### Additional information
 
-| :-: | :-: | :-: | :-: | :-: | :-: |
+
 | [Website](https://bepro.network) | [Twitter](https://twitter.com/bepronet) | [Medium](https://medium.com/bepronetwork) 
 
 ### Real-time conversation
