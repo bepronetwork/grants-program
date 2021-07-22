@@ -63,9 +63,9 @@ The committee consists of individuals who know the funding priorities of the Bep
 
 - [Rui Pedro](https://github.com/ruiub3i)
 - [Joao Gonçalves](https://github.com/moshmage)
-- [Filipe Pinho](https://github.com/filipepinho)
+- [Filipe Pinho](https://github.com/filipe-bepro)
 - [Andre Moniz](https://github.com/andremoniz)
-- [Justin Wu](https://github.com/justinwu)
+- [Justin Wu](https://github.com/thewujustin)
 
 ## :pencil: Process
 
@@ -75,7 +75,7 @@ The committee consists of individuals who know the funding priorities of the Bep
    1. [Fork](https://github.com/bepronetwork/grants-program/fork) this repository.
    2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)). If you're using the GitHub web interface, Make sure you **do not modify the template file directly**.
    3. Name the new file after your project: `project_name.md`.
-   4. Fill out the template with the details of your project. The more information you provide, the faster the review. To get an idea of what a strong application looks like, you can have a look at the following examples:  [1](https://github.com/w3f/Grants-Program/blob/master/applications/project_aurras_mvp_phase_1.md), [2](https://github.com/w3f/Grants-Program/blob/master/applications/project_bodhi.md), [3](https://github.com/w3f/Grants-Program/blob/master/applications/pontem.md), [4](https://github.com/w3f/Grants-Program/blob/master/applications/spartan_poc_consensus_module.md). Naturally, if you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
+   4. Fill out the template with the details of your project. The more information you provide, the faster the review. To get an idea of what a strong application looks like, you can have a look at the following examples:  [1](https://github.com/bepronetwork/grants-program/blob/master/applications/real_fvr.md), [2](https://github.com/bepronetwork/grants-program/blob/master/applications/loophole_finance.md). Naturally, if you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
    5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
    6. You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
    7. Sign off on the [terms and conditions](T&Cs.md)
@@ -87,11 +87,11 @@ The committee consists of individuals who know the funding priorities of the Bep
    4. The application will be accepted and merged as soon as it receives the approval of one third of the committee (currently 3 members), or closed after two weeks of inactivity. Unless specified otherwise, the day on which it is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
 
 3. **Milestone Delivery and Payment**
-   1. Milestones are to be delivered on the [Grant Milestone Delivery](https://github.com/bepronetwork/Grant-Milestone-Delivery/) repository. You can find the delivery process [here](https://github.com/w3f/Grant-Milestone-Delivery#mailbox-milestone-delivery-process).
+   1. Milestones are to be delivered on the [Grant Milestone Delivery](https://github.com/bepronetwork/grants-program/milestones/) repository. You can find the delivery process [here](https://github.com/bepronetwork/grants-program/milestones/intro.md).
 
 The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
-Additionally, we try to enforce the [code of conduct](CODE_OF_CONDUCT.md) and based on this may [block users](https://github.blog/2016-04-04-organizations-can-now-block-abusive-users/).
+Additionally, we try to enforce the [code of conduct](CODE_OF_CONDUCT.md)
 
 ## :bulb: Help
 
