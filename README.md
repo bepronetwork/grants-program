@@ -78,7 +78,7 @@ The committee consists of individuals who know the funding priorities of the Bep
    4. Fill out the template with the details of your project. The more information you provide, the faster the review. To get an idea of what a strong application looks like. Naturally, if you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
    5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
    6. You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
-   7. Sign off on the [terms and conditions](T&Cs.md)
+   7. Add the comment "I accept the [Terms & Services](https://github.com/bepronetwork/grants-program/blob/main/T%26Cs.md)" in the Pull Request as shown [here](https://github.com/bepronetwork/grants-program/pull/1)
 
 2. **Application Review**
    1. The [committee](#grants-committee) can (and usually does) issue comments and request changes on the pull request.
