@@ -111,5 +111,10 @@ We have Element channels for real-time discussions on Bepro-js and general quest
 
 [Apache License 2.0](LICENSE) © Bepro Network
 
-## Importante Note & Credit Attribution : The Readme and Grants Repository structure was created based on https://github.com/w3f/Grants-Program as we see it as a great framework for the goal we want to achieve - we are not related in any way with the Web3 Foundation.
+## Importante Note & Credit Attribution
 
+The Readme and Grants Repository structure was created based on https://github.com/w3f/Grants-Program as we see it as a great framework for the goal we want to achieve - we are not related in any way with the Web3 Foundation.
+
+## Terms & Conditions
+
+BEPRO Network Grants, BEPRO Protocol and BEPRO Token (BEPRO) are not available in Excluded Jurisdictions that can be found in our [terms and conditions](T&Cs.md)
