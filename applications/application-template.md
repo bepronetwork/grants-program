@@ -11,11 +11,6 @@
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
-## Project Overview :page_facing_up:
-
-If this application is in response to an RFP, please indicate this on the first line of this section.
-
-If this is an application for a follow-up grant, please provide name and/or pull request of said grant on the first line of this section.
 
 ### Overview
 
@@ -23,7 +18,7 @@ Please provide the following:
 
 * If the name of your project is not descriptive, a tag line (one sentence summary).
 * A brief description of your project.
-* An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
+* An indication of how your project relates to / integrates into Bepro Network / Bepro-js
 * An indication of why your team is interested in creating this project.
 
 ### Project Details
