@@ -4,9 +4,9 @@
 >
 > See the [Grants Program Process](https://github.com/bepronetwork/grants-program/#pencil-process) on how to submit a proposal.
 
-* **Project Name:** Name of your project (e.g. DuoSwap Module)
-* **Team Name:** Legal name of your team (e.g. Duo)
-* **Payment Address:** BEPRO or USDC payment address. We don't accept payments for the program in other currencies at this stage. If this is an Ethereum address, please specify BEPRO or USDC. (e.g. 0x8920... (DAI))
+* **Project Name:** WorldBox.tv
+* **Team Name:** WorldBox.tv
+* **Payment Address:** 0x98ff0CD86B39Cf1f505372DBa30292e7E8024511 (MetaMask ETH Mainnet)
 
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
@@ -16,81 +16,89 @@
 
 Please provide the following:
 
-* If the name of your project is not descriptive, a tag line (one sentence summary).
-* A brief description of your project.
-* An indication of how your project relates to / integrates into Bepro Network / Bepro-js
-* An indication of why your team is interested in creating this project.
+* Audience Driven, Interactive TV.
+* Broadcast entertainment which uses viewer input to shape the way a show evolves in realtime. Long term goal of using user interaction to train an Artificial Neural Network (ANN) to create it's own unique narratives, thus creating unique experiences, on demand, on a per viewer basis.
+* WorldBox will use the Bepro base code to build the projects token, dex, market and associated NFTs which will drive and reward viewer interaction.
+* The WorldBox team is interested in this project as it would be the first to create truly interactive media - the inevitable blurring of the line between gaming and movies where a viewer can go anywhere and do anything, within a basic narrative framework.
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-* Mockups/designs of any UI components
-* Data models / API specifications of the core functionality
-* An overview of the technology stack to be used
-* Documentation of core components, protocols, architecture, etc. to be deployed
-* PoC/MVP or other relevant prior work or research on the topic
-* What your project is _not_ or will _not_ provide or implement
-  * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+* While the WorldBox App will have a traditional UI for menus etc. the interactive aspects will be created on a per production basis i.e. each interactive scene will have a custom built responsive overlay through which viewers will be able to provide input. The first WorldBox production 'Loop' will be live footage, but future production may be built from pre-rendered animation, with the final goal being to use a game game engine to render scenes in real time. 
+* Due to the highly complex nature of our final goal of creating 'completely interactive' media we have purposely simplified the interactive elements of the project for the first production so we can focus on perfecting the base mechanics i.e. gathering a massive amount of user input and executing it within a live broadcast. In essense the API in initial productions can be defined as a 'crowd funded narrative'.
+* An overview of the technology stack to be used - to be determind.
+* Documentation of core components, protocols, architecture, etc. to be deployed - in progress.
+* The WorldBox system was initially developed as a completely analog system of physical sets (as in film sets) and a pen and paper D&D style show, with live actors playing multiple roles and having several costume changes. While Jono Heaney (the projects creator) still hopes to put on a performance like this, he admits it would be a vanity project with a unfeasible budget. The well developed documentation for this flavour of the WorldBox project is available on request.
+* Listing the limitations of the project is an interesting subject as when you fully understand what the end goal of WorldBox is, there is very little the system could not be retasked to do. Leading with this has proven to be a sure way of seeding doubt due to the sheer magnitude of the projects scope, as such, we have started to excluded it almost completely from the marketing and investment material. In short: Once we have developed a system that can accurately replicate the nuances of humour, love, hate, satire etc. within the human frame of reference, it could be set to simulate any manner of tasks in a billion differnt ways, thus finding the most efficient way of completing them, and given the correct interface, perform them better than a human ever could.
 
 ### Ecosystem Fit
 
 Help us locate your project in the Blockchain landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem?
-* Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-* What need(s) does your project meet?
-* Are there any other projects similar to yours in the BEPRO Network ecosystem?
-  * If so, how is your project different?
-  * If not, are there similar projects in related ecosystems?
+* In it's initial stages WorldBox will form a bridge between Interactive Games, Passive Broadcast Media, NFT collectibles and Personal wealth.
+* We are looking to bring the massive global audience typically associated with Passive Media into the realm of Interacive Games.
+* WorldBox will provide entertainment for the masses, who will in term provide backpropogation for train the WorldBox ANN.
+* As yet there are no similar projects within the Bepro or other networks that we are aware of.
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
-* Name of team leader
-* Names of team members 
+* Team Leader (WorldBox.TV, Suspended Animation) Jonathan Heaney 
+* App and Code Development (Touch Foundry) Fabio Longano 
+* Film Production (9mm Films) Peter Heaney
+* Sound Production (One Nation Studios) Greg Canning
 
 ### Contact
 
-* **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. john@duo.com)
-* **Website:**
+* **Contact Name:** Johathan Michael Heaney
+* **Contact Email:** jono@worldbox.tv
+* **Website:** www.worldbox.tv
 
 ### Legal Structure
 
-* **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-* **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+* **Registered Address:** TBD (We have held back on registering an entity until we have concluded investment negotiations).
+* **Registered Legal Entity:** As above.
 
 
 ### Team's Location
 
-* **Place of Operations:** Place of Operations of team member 1
-* **Place of Operations:** Place of Operations of team member 2
+* **Place of Operations:** Johannesburg and Cape Town South Africa - Suspended Animation, 9mm Films, One Nation Studios, Touch Foundry.
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+Suspended Animation - In business since 2003. Hundreds of TV projects both local and interantional. Full work history available on request. A broad cross section of work can be found in our showreels. https://vimeo.com/user3710422
 
-Please list the name of the project and legal entity here.
+Touch Foundry - In business since 2010. Massive worldwide footprint. Please see our website for details https://touchfoundry.co.za/our-story/
+
+9mm films - In business since 2005. Hundreds of TV projects both local and international. Full work history available on request. Please chekout our Vimeo for a broad crosssection of our work https://vimeo.com/9mmfilms
+
+One Nation Studios. In Business since 2012. Hundreds of TV projects both local and international. Please see out site for details of our exstencive body of work. https://www.onenationstudios.co.za/
+
 
 ### Team Code Repos
 
+* To be completed by Touch Foundry once we commence the coding part of the project.
 * https://github.com/<your_organisation>
 * https://github.com/<your_organisation>/<project_1>
 * https://github.com/<your_organisation>/<project_2>
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
+* To be completed by Touch Foundry once we commence the coding part of the project.
 * https://github.com/<team_member_1>
 * https://github.com/<team_member_2>
 
 ### Team LinkedIn Profiles (if available)
 
-* https://www.linkedin.com/<person_1>
-* https://www.linkedin.com/<person_2>
+* https://www.linkedin.com/in/jono-heaney-4913992/
+* https://www.linkedin.com/in/fabiolongano/
+* https://www.linkedin.com/in/peter-heaney-7506011a2/
+* https://www.linkedin.com/in/gcanning/
 
 ## Development Status :open_book:
+Not Applicable
 
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
@@ -154,18 +162,13 @@ To assist you in defining it, we have created a document with examples for some 
 
 ## Future Plans
 
-Please include here
-
-* how you intend to use, enhance, promote and support your project in the short term, and
-* the team's long-term plans and intentions in relation to it.
+WorldBox has been carefully segmented so as each portion of the project can stand alone as an appealing (in terms entertainment) and profitable business venture. Each subsequent stage is designed to fund the next, adding more interaction and collecting more user data (in terms of how humans like to experience a narrative.)
 
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?**  Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?**  I initially left a message via the Bepro webform enquiring what the process would be to setup my own NFT gallery (due to being lost in the deluge of Open Sea - you can find my work here https://opensea.io/theMilitantBitCollective ) Filipe contacted me and through this interaction I learnt about the BUIDL initiative. 
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-* Work you have already done.
-* Wheter there are any other teams who have already contributed (financially) to the project.
-* Previous grants you may have applied for.
+Not Applicable at this point in time.
