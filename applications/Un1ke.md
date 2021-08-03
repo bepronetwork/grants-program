@@ -4,8 +4,8 @@
 >
 > See the [Grants Program Process](https://github.com/bepronetwork/grants-program/#pencil-process) on how to submit a proposal.
 
-* **Project Name:** Name of your project (e.g. DuoSwap Module)
-* **Team Name:** Legal name of your team (e.g. Duo)
+* **Project Name:** Un1ke
+* **Team Name:** Un1ke
 * **Payment Address:** BEPRO or USDC payment address. We don't accept payments for the program in other currencies at this stage. If this is an Ethereum address, please specify BEPRO or USDC. (e.g. 0x8920... (DAI))
 
 
@@ -17,17 +17,36 @@
 Please provide the following:
 
 * If the name of your project is not descriptive, a tag line (one sentence summary).
+---- One of a kind digital objects. 
 * A brief description of your project.
+
+Un1ke starts with a simple idea, help Artists and Local businesses onboarding the new Web 3.0 and embrace blockchain technology.
+Most of the team comes from a traditional B2B business, working with some of the biggest brands in Portugal and some global brands.
+This gives us a solid understanding of the market moves and what will be the next big opportunity and early this year we had the idea to set up a company that will not aim to be a Tech company for itself, but a transitional company that will help Artists and businesses, taking the leap to a blockchain environment. 
+
+how do we believe we can do it?
+since Kevin McCoy minted the first Nft, the proof of concept for Digital ownership was established, and on the 2017 NFT rise the realization of Digital intellectual property like Criptopunks and other brands made it clear that the future for IP and Creative rights will pass by blockchain technology.
+From art to industrial design, passing by movies and 3d printing assets, in the near future everything will be own in an NFT or some variation of it.
+So we hope to bring artists and companies closer to this "world" creating a clear and Legal way to ensure ownership and commercial rights to all the NFT created, this way we will bring the "real world" parametric to our NFTs.
+To do this we developed several types of processes adapted to the needs of our 3 main areas, this processes will ensure the authenticity of our NFT and deliver a real value for the money product. 
+
 * An indication of how your project relates to / integrates into Bepro Network / Bepro-js
+we belive that our projects needs a simples UI/UX with a strong blockchain integration and Bepro tools seams the perfect partner for that end. 
+
 * An indication of why your team is interested in creating this project.
+We believe in 
+
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 * Mockups/designs of any UI components
+desenvolvimento
 * Data models / API specifications of the core functionality
+desenvolvimento 
 * An overview of the technology stack to be used
+desenvolvimento
 * Documentation of core components, protocols, architecture, etc. to be deployed
 * PoC/MVP or other relevant prior work or research on the topic
 * What your project is _not_ or will _not_ provide or implement
@@ -76,7 +95,7 @@ Please list the name of the project and legal entity here.
 
 ### Team Code Repos
 
-* https://github.com/<your_organisation>
+* https://github.com/<Un1ke>
 * https://github.com/<your_organisation>/<project_1>
 * https://github.com/<your_organisation>/<project_2>
 
