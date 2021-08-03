@@ -6,7 +6,7 @@
 
 * **Project Name:** Un1ke
 * **Team Name:** Un1ke
-* **Payment Address:** BEPRO or USDC payment address. We don't accept payments for the program in other currencies at this stage. If this is an Ethereum address, please specify BEPRO or USDC. (e.g. 0x8920... (DAI))
+* **Payment Address:** 0x2368a4bcD48015c4284362fB28092043CB40d3eC
 
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
@@ -17,7 +17,7 @@
 Please provide the following:
 
 * If the name of your project is not descriptive, a tag line (one sentence summary).
----- One of a kind digital objects. 
+One of a kind digital objects. 
 * A brief description of your project.
 
 Un1ke starts with a simple idea, help Artists and Local businesses onboarding the new Web 3.0 and embrace blockchain technology.
@@ -31,22 +31,20 @@ So we hope to bring artists and companies closer to this "world" creating a clea
 To do this we developed several types of processes adapted to the needs of our 3 main areas, this processes will ensure the authenticity of our NFT and deliver a real value for the money product. 
 
 * An indication of how your project relates to / integrates into Bepro Network / Bepro-js
-we belive that our projects needs a simples UI/UX with a strong blockchain integration and Bepro tools seams the perfect partner for that end. 
+We believe that the key to success in WEB3.0 will a combination of strong technology and a great UX. We believe that Bepro tools can deliver both and integrated with a functional UI we are sure to deliver a great product to market.
 
 * An indication of why your team is interested in creating this project.
-We believe in 
-
+We believe that people should be the owner of their creations, with the project we hope to deliver a tool that will create an easy and simpler way to protect your ideas to your art.
+Of course on the business side, we see also a big opportunity in the industrial and copyright area. Most NFT platforms use art, music as main items, in Un1ke we will focus more on the business side and develop tools to serve that specific audience.
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 * Mockups/designs of any UI components
-desenvolvimento
+see file upload on githuhb sitemap_interface
 * Data models / API specifications of the core functionality
-desenvolvimento 
 * An overview of the technology stack to be used
-desenvolvimento
 * Documentation of core components, protocols, architecture, etc. to be deployed
 * PoC/MVP or other relevant prior work or research on the topic
 * What your project is _not_ or will _not_ provide or implement
@@ -56,36 +54,46 @@ desenvolvimento
 
 Help us locate your project in the Blockchain landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem?
+* Where and how does your project fit into the ecosystem? 
+We will offer a product suitable to private and corporate users, enabling easier proof of ownership.
 * Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+Our audience goes from personal users to big industrial companies, we will offer simple pictures not mint to Concept project registration.
 * What need(s) does your project meet?
+We think that we can offer a better and simpler service for IP and copyright registration.
 * Are there any other projects similar to yours in the BEPRO Network ecosystem?
   * If so, how is your project different?
   * If not, are there similar projects in related ecosystems?
+ At the moment we think, that there´s no business with the goals we have.
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
-* Name of team leader
-* Names of team members 
+We don´t have a team leader, we work as a close group with an equal voice.
+
+Nelson - Crypto user from 2018, he started in the crypto-verse on trading but pretty soon realized that trading was a waste of time and started developing skills on mining and rigging assembly, this was the starting point for him to embrace blockchain culture and go deeper into the rabbit hole.
+
+Daniel - He comes from the money side of the business, with a master's degree in finances, Daniel brings us the financial side and how we can turn the idea into a business. Also is kind of a nerd and curious about software programming, and is always creating some kind of new thing and looking in ways that we can do it by ourselves making us more autonomous and innovative. 
+
+José - José is a 20´s Master Brand, Graphic & Web Designer, that stumbles into crypto in 2018 when is invited to be part of two crypto projects, the early start of an investment fund and one for a retail company. From then to now, José is a crypto enthusiast, NFT collector, and Art lover.
+
+André - He also comes from the creative side, with a focus on 3D and multimedia. Soon in his career, he discovers a taste for industrial design and later for Experience design, since then he has worked on projects around the world namely on festive lighting. Always on the innovation side of the business, he managed product development pipelines from communication protocols on electric grids to SAS and promotional app.
 
 ### Contact
 
-* **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. john@duo.com)
-* **Website:**
+* **Contact Name:** André Costa
+* **Contact Email:** info@un1ke.io
+* **Website:** www.un1ke.io
 
 ### Legal Structure
 
-* **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-* **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+* **Registered Address:** We still didn´t incorporate the company we hope to do it soon, the location for the offices should be Portugal.
+* **Registered Legal Entity:**
 
 
 ### Team's Location
 
-* **Place of Operations:** Place of Operations of team member 1
-* **Place of Operations:** Place of Operations of team member 2
+* **Place of Operations:** Braga
 
 ### Team's experience
 
@@ -93,21 +101,25 @@ Please describe the team's relevant experience. If your project involves develop
 
 Please list the name of the project and legal entity here.
 
+Like we discussed with Filipe, the team is quite inexperienced in blockchain projects. We have a really strong corporate background from project managing to design and finances.
+We are in the process of onboarding a web developer and a blockchain developer so we can start developing the functional part of our business.
+
 ### Team Code Repos
 
-* https://github.com/<Un1ke>
-* https://github.com/<your_organisation>/<project_1>
-* https://github.com/<your_organisation>/<project_2>
+* https://github.com/Un1ke
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-* https://github.com/<team_member_1>
-* https://github.com/<team_member_2>
+* https://github.com/<none>
+* https://github.com/<none>
 
 ### Team LinkedIn Profiles (if available)
 
-* https://www.linkedin.com/<person_1>
-* https://www.linkedin.com/<person_2>
+* https://www.linkedin.com/in/danieljmsousa123/
+* https://www.linkedin.com/in/zitron/
+* https://www.linkedin.com/in/ancosta/
+* https://www.linkedin.com/in/nelson-dias-3222a2217/
+
 
 ## Development Status :open_book:
 
@@ -117,6 +129,7 @@ If you've already started implementing your project or it is part of a larger re
 * links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
 * references to conversations you might have had related to this project with anyone from the bepro network core team,
 * previous interface iterations, such as mock-ups and wireframes.
+* we use https://miro.com/app/board/o9J_l9YOGUM=/
 
 ## Development Roadmap :nut_and_bolt:
 
@@ -139,36 +152,66 @@ To assist you in defining it, we have created a document with examples for some 
 
 ### Overview
 
-* **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-* **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding _needs to be below $30k for initial grants. This and the costs for each milestone need to be in USD; if the grant is paid out in BEPRO,the amount will be sent in BEPRO directly.
+* **Total Estimated Duration:** 9 months 
+* **Full-Time Equivalent (FTE):**  6 employes working 35hours per week a total of 1400hours per person until full project.
+* **Total Costs:** For the initial goals on the platform, we believe that around 34K €ur will be enough to have the first version for the platform running.
 
-### Milestone 1 Example — Implement First Modules
+Milestone 1 - Website deployment and brand awareness
+Finished 15th August.
 
-* **Estimated duration:** 1 month
-* **FTE:**  2
-* **Costs:** 8,000 USDC
+We are finishing the Alpha version for our platform that for now will work over a WordPress website.
+At this time the objective for the website is to launch the brand and create awareness for our business, this way opening the way to create a business network, onboard artists, and promote our first NFT collections.
+It will be for now a “wannabe” for the future platform we will develop ahead.
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | module: X | We will create a module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | module: Y | We will create a module that will... |  
-| 3. | module: Z | We will create a module that will... |  
-| 4. | chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+- website live and brand launch.
+- First NFT collections minted by our own contract ( we are using smart contract plugins for test and proof of Concept )
+- onboarding of Artists and partners.
+- Social and Web campaign
+
+June>>>>15th August
+Costs: work done by founder team, operational cost 2000€.
+
+Milestone 2 – Token creation and Platform development
+Our second step is to create a platform to fund and make the project real.
+The objective is to create a Token that would work has the platform heart and soul, it would be integrated as the payment method, has Community growth tools with artists and creator rewards and incentives.
+At the same time, we would list a pre-sale to a close network of personal and direct contacts to gather funds to develop the next steps and improve the company.
+Together with this, we will be working on developing the platform and adding creator pages, NFT mint, and payment options.
+
+- Token creation and deployment
+- Platform Developing/front-end and Blockchain integrations
+- Smart contracts deployment in testnet and platform integration
+- Pre-sale and Marketing campaign
+- Seasonal Art Collections
+16th August>>>>24th September
+Costs: work done by founder team + outsourced specialists
+operational cost 6000€.
+
+Milestone 3 – Deployment of Own Marketplace
+This is the final step on the platform Beta, we hope at this stage be able to launch the platform with creator pages and full mint functions for all business areas.
+
+- Deployment of Smart contracts
+- Full working NFT Marketplace ( MVP )
+- Assets and D.I.P. area access
+- Creators page
+- Continuos Marketing campaigns and airdrops awareness campaign
+
+24th September >>>>25th October
+Costs: work done by founder team + outsourced specialists
+operational cost 8000€.
+
+Milestone 4 – Final upgrades and optimal implementation
+This is the final step, when we add the final add ons and details on the platform interface, namely in the creator pages, adding control and monitor functions like views analytics and sales services.
+Also at this time, we will focus on onboarding new users and especially start to approach and take a more aggressive communication on the corporate market and local business.
+
+- Backend and Creator analytics integration
+- corporate services development
+- corporate and Ip marketing campaign
+
+25th October >>>>10th January
+Costs: work done by founder team + in house team + outsourced specialists
+operational cost 12000€.
 
 
-### Milestone 2 Example — Additional features
-
-* **Estimated Duration:** 1 month
-* **FTE:**  1
-* **Costs:** 4,000 USDC
-
-...
 
 
 ## Future Plans
@@ -182,9 +225,12 @@ Please include here
 ## Additional Information :heavy_plus_sign:
 
 **How did you hear about the Grants Program?**  Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+ Nelson, found out the information in a telegram group and started a discussion with Filipe.
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
 * Work you have already done.
+ We will have our beta website on in the 15th August we can share it at the time.
 * Wheter there are any other teams who have already contributed (financially) to the project.
 * Previous grants you may have applied for.
+We started the project like 3 months ago, we weren´t looking for nothing but sometimes magic happens!
