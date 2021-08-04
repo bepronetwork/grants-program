@@ -1,20 +1,11 @@
 # Bepro Network Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
->
-> See the [Grants Program Process](https://github.com/bepronetwork/grants-program/#pencil-process) on how to submit a proposal.
-
 * **Project Name:** WorldBox.tv
 * **Team Name:** WorldBox.tv
 * **Payment Address:** 0x98ff0CD86B39Cf1f505372DBa30292e7E8024511 (MetaMask ETH Mainnet)
 
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
-
-
 ### Overview
-
-Please provide the following:
 
 * Audience Driven, Interactive TV.
 * Broadcast entertainment which uses viewer input to shape the way a show evolves in realtime. Long term goal of using user interaction to train an Artificial Neural Network (ANN) to create it's own unique narratives, thus creating unique experiences, on demand, on a per viewer basis.
@@ -23,22 +14,19 @@ Please provide the following:
 
 ### Project Details
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
-* While the WorldBox App will have a traditional UI for menus etc. the interactive aspects will be created on a per production basis i.e. each interactive scene will have a custom built responsive overlay through which viewers will be able to provide input. The first WorldBox production 'Loop' will be live footage, but future production may be built from pre-rendered animation, with the final goal being to use a game game engine to render scenes in real time. 
-* Due to the highly complex nature of our final goal of creating 'completely interactive' media we have purposely simplified the interactive elements of the project for the first production so we can focus on perfecting the base mechanics i.e. gathering a massive amount of user input and executing it within a live broadcast. In essense the API in initial productions can be defined as a 'crowd funded narrative'.
-* An overview of the technology stack to be used - to be determind.
-* Documentation of core components, protocols, architecture, etc. to be deployed - in progress.
+* WorldBox has been split into multiple, stand alone stages. This first stage will culminate in the broadcast of the first WorldBox Production, an interactive show streamed on the WorldBox App through which viewers will be able interact and earn production specific NFTs and WOX, the WorldBox token. All the blockchain aspects of this founcation stage (token, market, NFT factory etc.) will be built on the Bepro base code.
+* While the WorldBox App will have a traditional UI for menus etc. the interactive aspects will be created on a per production basis i.e. each interactive scene will have a custom built responsive overlay through which viewers will be able to provide input. The first WorldBox production 'Loop' will be live footage, but future production may be built from pre-rendered animation, with the final goal being to use a game engine to render scenes in real time. 
+* Due to the highly complex nature of our final goal of creating 'completely interactive' media we have purposely simplified the interactive elements of the project for the first production so we can focus on perfecting the base mechanics i.e. gathering a massive amount of user input and executing it within a live broadcast. In essense, the API in initial productions can be defined as a 'crowd funded narrative'.
+* Our technology stack for this initial stage will consist of an Android, IOS and web broswer based front end. All calculations of viewer score, allocation of crypto rewards, NFTs etc. as well as the hosting and streaming of content will obviously be handled on the server side.
+* Due to the large scope of the project, especially in terms verticle and horizontal scalability, we are running an ongoing scoping exercise which will determind exactly which core components, protocols, architecture, etc. will be deployed. Since this will be a task paid for by WorldBox, some of these aspects (such as final hosting solutions) will only be determind once we start developing the primary elements of the app, which will come after we have completed the block chian aspects of the project.
 * The WorldBox system was initially developed as a completely analog system of physical sets (as in film sets) and a pen and paper D&D style show, with live actors playing multiple roles and having several costume changes. While Jono Heaney (the projects creator) still hopes to put on a performance like this, he admits it would be a vanity project with a unfeasible budget. The well developed documentation for this flavour of the WorldBox project is available on request.
 * Listing the limitations of the project is an interesting subject as when you fully understand what the end goal of WorldBox is, there is very little the system could not be retasked to do. Leading with this has proven to be a sure way of seeding doubt due to the sheer magnitude of the projects scope, as such, we have started to excluded it almost completely from the marketing and investment material. In short: Once we have developed a system that can accurately replicate the nuances of humour, love, hate, satire etc. within the human frame of reference, it could be set to simulate any manner of tasks in a billion differnt ways, thus finding the most efficient way of completing them, and given the correct interface, perform them better than a human ever could.
 
 ### Ecosystem Fit
 
-Help us locate your project in the Blockchain landscape and what problems it tries to solve by answering each of these questions:
-
 * In it's initial stages WorldBox will form a bridge between Interactive Games, Passive Broadcast Media, NFT collectibles and Personal wealth.
 * We are looking to bring the massive global audience typically associated with Passive Media into the realm of Interacive Games.
-* WorldBox will provide entertainment for the masses, who will in term provide backpropogation for train the WorldBox ANN.
+* WorldBox will provide entertainment for the masses, who will in turn provide backpropogation for train the WorldBox ANN.
 * As yet there are no similar projects within the Bepro or other networks that we are aware of.
 
 ## Team :busts_in_silhouette:
@@ -78,15 +66,19 @@ One Nation Studios. In Business since 2012. Hundreds of TV projects both local a
 
 
 ### Team Code Repos
+To be completed by Touch Foundry team once we commence the coding part of the project.
 
-* To be completed by Touch Foundry once we commence the coding part of the project.
 * https://github.com/<your_organisation>
 * https://github.com/<your_organisation>/<project_1>
 * https://github.com/<your_organisation>/<project_2>
 
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+GitHub accounts of team members.
 
-* To be completed by Touch Foundry once we commence the coding part of the project.
+* TouchFoundry team - Since the cream of our code belongs to our clients the best place to see it in action is through our website showcase:
+* https://touchfoundry.co.za/showcases/
+* And our case studies which can be found here.
+* https://touchfoundry.co.za/case-studies/
+* To be completed by Touch Foundry team once we commence the coding part of the project.
 * https://github.com/<team_member_1>
 * https://github.com/<team_member_2>
 
@@ -99,13 +91,6 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ## Development Status :open_book:
 Not Applicable
-
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-* academic publications relevant to the problem,
-* links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-* references to conversations you might have had related to this project with anyone from the bepro network core team,
-* previous interface iterations, such as mock-ups and wireframes.
 
 ## Development Roadmap :nut_and_bolt:
 
