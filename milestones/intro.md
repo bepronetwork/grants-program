@@ -4,7 +4,7 @@ These are the guidelines to be followed for milestones submitted for evaluation.
 
 ## Submission
 
-1) Please submit all your milestones via creation of a Milestone to the [Grant Milestone Delivery repository](https://github.com/bepronetwork/grants-program).
+1) Please submit all your milestones via creation of a Milestone to the [Grant Milestone Delivery repository](https://github.com/bepronetwork/grants-program/milestones).
 2) Create an Issue that integrated the Grant you are part of by using "#${YOUR_PR}"
 3) Wait for the comitee feedback and delivery of the grant milestone capital
 
