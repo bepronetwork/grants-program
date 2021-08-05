@@ -87,7 +87,7 @@ The committee consists of individuals who know the funding priorities of the Bep
    4. The application will be accepted and merged as soon as it receives the approval of one third of the committee (currently 3 members), or closed after two weeks of inactivity. Unless specified otherwise, the day on which it is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
 
 3. **Milestone Delivery and Payment**
-   1. Milestones are to be delivered on the [Grant Milestone Delivery](https://github.com/bepronetwork/grants-program/milestones/) repository. You can find the delivery process [here](https://github.com/bepronetwork/grants-program/milestones/intro.md).
+   1. Milestones are to be delivered on the [Grant Milestone Delivery](https://github.com/bepronetwork/grants-program/milestones/) repository. You can find the delivery process [here](https://github.com/bepronetwork/grants-program/blob/main/milestones/intro.md).
 
 The grant application can be amended at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
