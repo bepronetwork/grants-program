@@ -1,23 +1,23 @@
 # Bepro Network Grant Proposal
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
->
+> 
 > See the [Grants Program Process](https://github.com/bepronetwork/grants-program/#pencil-process) on how to submit a proposal.
 
 * **Project Name:** Rally TASCOs
 * **Team Name:** TASCO
 * **Payment Address:**  0x1BdB26fCb8eF6222F1f2Dc91A619fE8764f99CC0 ($BEPRO)
 
-
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
-
 
 ### Overview
 
-####Summary:
+##### Summary:
+
 The project has as ambit to develop a ludic component associated to cryptocurrencies and NFTs focusing the Portuguese culture. We have as an objective to show the latest developments in cryptocurrencies to the Portuguese population in a simple and playful way.
 
-####Scope:
+##### Scope:
+
 The game is called Rally TASCOs, and aims to make Portuguese culture known to the Portuguese and to give value to what we have best in Portugal, the "tascos", our traditional and modest establishments.
 The game will be presented through a map and a marketplace of NFTs.
 At the launch of our game we will focus on the capital of Portugal with 10 restaurants.
@@ -35,26 +35,31 @@ Each establishment will have its own marketplace and unique artwork.
 
 ####Business Mechanisms
 To create the desire effect and create supply, we will create some currency distribution mechanisms, so players can buy NFTs.
+
 * 1st mechanism - After registration confirmation the player will receive % under the maximum total of 685 TASCO/day. The more players the platform has the less each user receives. The TASCO will be shared from 0.04/block, each block is mined 5/5sec (according to EWC).
 * 2nd mechanism - Drawing for the first 10 players. 1 of those 10 players will receive 1 NFT of the game + airdrop.
 * 3rd mechanism - we will make available 700K TASCOs to distribute through referrals. For each referral the player will receive 1 TASCO/month
-These mechanisms will be implemented over time.
-Other mechanisms of currency distribution / NFTs can be created as the team sees fit.
-There are other mechanisms that we have in mind like having a race to the tavern, the first to go to the tavern will receive 1 prize. Or the first to go to 5/10 different taverns will receive a TASCO airdrop.
+  These mechanisms will be implemented over time.
+  Other mechanisms of currency distribution / NFTs can be created as the team sees fit.
+  There are other mechanisms that we have in mind like having a race to the tavern, the first to go to the tavern will receive 1 prize. Or the first to go to 5/10 different taverns will receive a TASCO airdrop.
 
-####TASCO Tokenomics
+##### TASCO Tokenomics
+
 * Hard Cap 20M - never meant to be reached
+
 * 8M - mining program
+
 * 1M - Dev allocation & war chest
+
 * If it turns out to be too much we just burn it or use it for more games
+
 * 1M - distribution in register incentives (1 year)
+
 * 2M - referral incentives (1 year)
 
 * 5M (early stage) - Calibrated to be 4 years - Games and challenges -
-When early stage is over, no more airdrops. we will focus on NFTs and create valued NFTs (create demand)
-Our goal is following that the number of tokens follows the pattern of Portuguese Population after early stage is over.
-
-
+  When early stage is over, no more airdrops. we will focus on NFTs and create valued NFTs (create demand)
+  Our goal is following that the number of tokens follows the pattern of Portuguese Population after early stage is over.
 
 ### Ecosystem Fit
 
@@ -87,7 +92,7 @@ Help us locate your project in the Blockchain landscape and what problems it tri
 
 ### Legal Structure
 
-* **Registered Address:** Rua Timor 5 1° andar, Lisboa 1170-371
+* **Registered Address:** Lisboa, Portugal
 * **Registered Legal Entity:** Joao Filipe Silva Fernandes
 
 ### Team's Location
@@ -110,14 +115,11 @@ Hugo Correia - Senior Fullstack developer
 * https://github.com/jofernandess/TascoCoin
 * https://github.com/andreloureiro88/tasco.api
 
-
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 * https://github.com/jofernandess
 * https://github.com/andreloureiro88
 * https://github.com/hmsca
-
-
 
 ### Team LinkedIn Profiles (if available)
 
@@ -131,105 +133,104 @@ Already initiated.
 
 ## Development Roadmap :nut_and_bolt:
 
+
+
 Project Plan:
 
 * **Estimated duration:** 33 weeks
-* **FTE:** 0.15 (3 DEVs with a maximum of 5h of development per week)
+* **FTE:** 0.75
 * **Costs:** 4M $BEPRO
 
-Week 1: Image & frontend website
-* landing page
-* Rules/game page 
-* Timeline page
-* About us
-* Sponsors and partners
-* Logo
-* Slogan
-* FAQs
-* Contacts
-
-2nd/3rd/4th week:
-Registration - Insert users - validation of registration (BE)
-Sending the newsletter with game rules (BE)
-CRUD the restaurants in the DB and their coordinates and description to populate the map (BE)
-admin page
-CRUD restaurants
-Add / remove address tokens
-Map - API leaflet
-Customize PIN
-
-5th/6th/7th/8th week:
-Create TASCO token (ERC20) on test network (use volta/ewc) - use bepro.network for tokenomics development
-Create ERC721 NFTs on test blockchain (use volta/ewc)
-Create logic for sale and 2nd hand market (BE).
-
-9th/10th/11th/12th week:
-Infrastructure setup
-Security
-Bug Fixing
 
 
-13th/14th/15th/16th week:
-Develop mechanism to distribute tokens by registration
-Call smartcontract to distribute tokens
-Develop mechanism to distribute tokens by referral
-Call smartcontract to distribute tokens
-Develop mechanism to distribute tokens to first 10 users
-Call smartcontract manual from admin page
-Develop images for NFTs for each restaurant (10 restaurants - 5 NFTs/restaurant) - associate with IPFS
+### Milestone 1 — Image, landing page
+
+- **Estimated duration:** 1 week
+- **FTE:** 2
+- **Costs:** 100K BEPRO
+
+| Number | Deliverable         | Specification                                                                                                                                                |
+| ------ | ------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0a.    | License             | Apache 2.0 / GPLv3 / MIT / Unlicense                                                                                                                         |
+| 0b.    | Legal Documentation | We will publish legal documentation in our website                                                                                                           |
+| 0c.    | Article             | We will publish an article to show our work.                                                                                                                 |
+| 0d.    | Image               | We will create a new brand image for our game                                                                                                                |
+| 1.     | Landing Page        | We will create a landing page with the following information: roadmap, goals of the project, image (logo, banner, colours), sponsors (you), team (anonimous) |
 
 
-17th/18th/19th/20th week:
-Create image submission feature
-Create image submission form
-Create tavern page
-Criar pagina do tasco
-Create marketplace feature
-Blockchain API connection
-FE - NFTs gallery
-Develop FE marketplace with dummy images associated with each restaurant (gallery)
-FE - 2nd hand marketplace
-Sell page
-Buy page
-Overall marketplace (show all NFTs) (to decide)
 
-21st/22nd/23rd/24th week:
-Create user page (FE) - show NFTs and associated tokens
-Create image submission functionality (BE/FE)
-Add images pending validation to Admin page
-Trigger email on image approval / disapproval
-Update image submission status
+### Milestone 2 — Game without marketplace / Design NFTs
+
+- **Estimated duration:** 10 week
+- **FTE:** 0.75
+- **Costs:** 500K BEPRO
 
 
-25th/26th/27th/28th: Application testing
-29th/30th/31st/32nd: Pre Live
-Teaser
-Community engagement
-
-33rd : Live :
-Create countdown to make NFTs available (2 days in roman numbers but with double the speed)
-Create countdown to make 1st coin distribution mechanism available (2 days in hexadecimal with half the speed)
-Create countdown to make 2nd referral mechanism available (3 days otherwise)
 
 
-## Future Plans
 
-Please include here
+| Number | Deliverable                           | Specification                                                                                                                                                                                                              |
+| ------ | ------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0a.    | Testing Guide                         | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests.                                                                          |
+| 1.     | Module: Login / register              | The user will be able to register / login in the game.                                                                                                                                                                     |
+| 2.     | Module: map with restaurants location | In this module the user will be able to find/select and read the description of the restaurantin the map that he wants to interact. The user will also be able to insert a picture and the admin will be able to validate. |
+| 3.     | Unit tests                            | We will create all unit tests for the sections (extensive)                                                                                                                                                                 |
+| 4      | NFTs design                           | We will design the images according the restaurants we choose and host in IPFS. For a MVP, we will start with 5 / restaurant. (5 restaurants in Lisbon)                                                                    |
 
-* 29th/30th/31st/32nd: Pre Live
-  Teaser
-  Community engagement
 
-* 33rd : Live :
-  - Create countdown to make NFTs available (2 days in roman numbers but with double the speed)
-  - Create countdown to make 1st coin distribution mechanism available (2 days in hexadecimal with half the speed)
-  - Create countdown to make 2nd referral mechanism available (3 days otherwise)
 
-* The goal is to continue to explore the portuguese culture apart from restaurants.
+### Milestone 3 — Coin ,Smartcontracts & javascript wrapper / FE integration
+
+- **Estimated duration:** 7 week
+- **FTE:** 0.75
+- **Costs:** 350K BEPRO
+
+| Number | Deliverable                             | Specification                                                                |
+| ------ | --------------------------------------- |:---------------------------------------------------------------------------- |
+| 1.     | Smart Contract                          | We will develop the smart contract infrastructure                            |
+| 1.     | Javascript Wrapper                      | We will create a module that wraps all the smart contract features/functions |
+| 2.     | Integrate The Package bepro-js (forked) | Integrate the package into our front end repo                                |
+| 3.     | Unit tests                              | We will create all unit tests for the sections (extensive)                   |
+| 4.     | Coin creation                           | Coin creation and create a liquidity pool with TASCO / USDC in a DEX         |
+
+
+
+### Milestone 4 — Marketplace
+
+- **Estimated duration:** 4 week
+- **FTE:** 0.75
+- **Costs:** 200K BEPRO
+
+| Number | Deliverable                     | Specification                                                                       |
+| ------ | ------------------------------- |:----------------------------------------------------------------------------------- |
+| 1.     | Module: Marketplace             | We will develop the marketplace / restaurant                                        |
+| 2.     | Integration with smartcontracts | Use bepro-js to integrate the smartcontracts created with the front end marketplace |
+| 3.     | Unit tests                      | We will create all unit tests for the sections (extensive)                          |
+| 4.     | Article                         | Gather all functionalities working and show examples in a screenshot                |
+
+### Milestone 5 — Infrastructure / Security & bug fixing / Testing / Community
+
+- **Estimated duration:** 5 week
+- **FTE:** 1
+- **Costs:** 350K BEPRO
+
+| Number | Deliverable    | Specification                                                      |
+| ------ | -------------- |:------------------------------------------------------------------ |
+| 1.     | Infrastructure | Setup the needed infrastructure to deploy the project              |
+| 2.     | Security       | Implement security protocols to the project                        |
+| 3.     | Bug Fixing     | Fix reported bugs                                                  |
+| 4.     | Game Guide     | Create an in game guide to help users to play the game             |
+| 5.     | Coin Guide     | Create a guide in a fashion manner to buy / sell TASCO (where/how) |
+| 6.     | Article/Teaser | Community engagement / Pre live                                    |
+
+### Future work
+
+- Continue to explore the portuguese culture apart from restaurants (museums, natural places, best wonders of Portugal)
+
+- Expand to different markets, outside of Portugal?
+
 
 
 ## Additional Information :heavy_plus_sign:
 
 **How did you hear about the Grants Program?**  Twitter
-
-
