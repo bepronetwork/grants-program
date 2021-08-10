@@ -135,6 +135,10 @@ If you've already started implementing your project or it is part of a larger re
 
 Milestone 1 - Website deployment and brand awareness
 Finished 10th August.
+* **Estimated Duration:** 1 month
+* **Full-Time Equivalent (FTE):** 4 persons total 240h
+* **Total Costs:** 2400€
+
 
 We are finishing the Alpha version for our platform that for now will work over a WordPress website.
 At this time the objective for the website is to launch the brand and create awareness for our business, this way opening the way to create a business network, onboard artists, and promote our first NFT collections.
@@ -147,9 +151,12 @@ It will be for now a “wannabe” for the future platform we will develop ahead
 - Social and Web campaign
 
 June>>>>9th August
-Costs: work done by founder team, operational cost 2000€.
+Costs: work done by founder team, operational cost 2400€.
 
 Milestone 2 – Token creation and Platform development
+* **Estimated Duration:** 1.5 month
+* **Full-Time Equivalent (FTE):** 6 persons total 600h
+* **Total Costs:** 6000€
 
 Our second step is to create a platform to fund and make the project real.
 The objective is to create a Token that would work has the platform heart and soul, it would be integrated as the payment method, has Community growth tools with artists and creator rewards and incentives.
@@ -167,6 +174,10 @@ Costs: work done by founder team + outsourced specialists
 operational cost 6000€.
 
 Milestone 3 – Deployment of Own Marketplace
+* **Estimated Duration:** 1 month
+* **Full-Time Equivalent (FTE):** 8 persons total 800h
+* **Total Costs:** 8000€ 
+ 
 This is the final step on the platform Beta, we hope at this stage be able to launch the platform with creator pages and full mint functions for all business areas.
 
 - Deployment of Smart contracts
@@ -180,6 +191,10 @@ Costs: work done by founder team + outsourced specialists
 operational cost 8000€.
 
 Milestone 4 – Final upgrades and optimal implementation
+* **Estimated Duration:** 2.5 month
+* **Full-Time Equivalent (FTE):** 8 persons total 1200h
+* **Total Costs:** 12000€  
+ 
 This is the final step, when we add the final add ons and details on the platform interface, namely in the creator pages, adding control and monitor functions like views analytics and sales services.
 Also at this time, we will focus on onboarding new users and especially start to approach and take a more aggressive communication on the corporate market and local business.
 
