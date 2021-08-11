@@ -27,7 +27,7 @@
 * In it's initial stages WorldBox will form a bridge between Interactive Games, Passive Broadcast Media, NFT collectibles and Personal wealth.
 * We will be using NFTs with built in atributes as a way to personalise and manage individual viewer experiences.
 * We are looking to bring the massive global audience typically associated with Passive Media into the realm of Interactive Games.
-* WorldBox will provide entertainment for the masses, who will in turn provide backpropagation for train the WorldBox ANN.
+* WorldBox will provide entertainment for the masses, who will in turn provide the backpropagation needed to train the WorldBox ANN.
 * As yet there are no similar projects within the Bepro or other networks that we are aware of.
 
 ## Team :busts_in_silhouette:
