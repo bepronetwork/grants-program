@@ -121,7 +121,8 @@ Not Applicable
 * **FTE:**  TBD
 * **Costs:** TBD
 
-* Scope technical aspects of project as a whole. This will be completed by TouchFoundry and will encompass the app development, streaming and hosting, as well as the blockchain element relating to Bepro and this grant. i.e. Define blockchain front end and back end. Confirm budgets, FTE and timeframe for development. 
+* Scope technical aspects of project as a whole. This will be completed by TouchFoundry and will encompass the app development, streaming and hosting, as well as the blockchain element relating to Bepro and this grant. i.e. Define blockchain front end and back end. 
+* Confirm budgets, FTE and timeframe for development. 
 * Update Bepro grant document.
 * Create explainer videos as well as associated marketing. (This will be done by Suspended Animation as part of a budget separate from this grant.)
 * Create Interactive Marketing package.
