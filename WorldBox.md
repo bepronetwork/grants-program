@@ -79,11 +79,12 @@ GitHub accounts of team members.
 * https://touchfoundry.co.za/showcases/
 * And our case studies which can be found here.
 * https://touchfoundry.co.za/case-studies/
+
 * To be completed by Touch Foundry team once we commence the coding part of the project.
 * https://github.com/<team_member_1>
 * https://github.com/<team_member_2>
 
-### Team LinkedIn Profiles (if available)
+### Team LinkedIn Profiles
 
 * https://www.linkedin.com/in/jono-heaney-4913992/
 * https://www.linkedin.com/in/fabiolongano/
