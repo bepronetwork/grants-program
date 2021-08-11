@@ -203,7 +203,7 @@ Not Applicable
 ## Additional Information :heavy_plus_sign:
 
 **How did you hear about the Grants Program?**  
-* I initially left a message via the Bepro webform enquiring what the process would be to setup my own NFT gallery (due to being lost in the deluge of Open Sea - you can find my work here https://opensea.io/theMilitantBitCollective ) Filipe contacted me and through this interaction I learnt about the BUIDL initiative. 
+* I initially left a message via the Bepro webform enquiring what the process would be to setup my own NFT gallery (due to being lost in the deluge of Open Sea - you can find my work here https://opensea.io/theMilitantBitCollective ) Filipe contacted me and through this interaction I learnt about the BUIDL initiative which I realised would be perfect to develop the blockchain aspect of my Interactive TV concept I had been working on for several years. 
 
 Additional information relevant to this application but isn't part of it already:
 
