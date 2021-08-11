@@ -14,19 +14,20 @@
 
 ### Project Details
 
-* WorldBox has been split into multiple, stand alone stages. This first stage will culminate in the broadcast of the first WorldBox Production, an interactive show streamed on the WorldBox App through which viewers will be able interact and earn production specific NFTs and WOX, the WorldBox token. All the blockchain aspects of this founcation stage (token, market, NFT factory etc.) will be built on the Bepro base code.
+* WorldBox has been split into multiple, stand alone stages. This first stage will culminate in the broadcast of the first WorldBox Production, an interactive show streamed on the WorldBox App through which viewers will be able interact and earn production specific NFTs and WOX, the WorldBox token. All the blockchain aspects of this foundation stage (token, market, NFT factory etc.) will be built on the Bepro base code.
 * While the WorldBox App will have a traditional UI for menus etc. the interactive aspects will be created on a per production basis i.e. each interactive scene will have a custom built responsive overlay through which viewers will be able to provide input. The first WorldBox production 'Loop' will be live footage, but future production may be built from pre-rendered animation, with the final goal being to use a game engine to render scenes in real time. 
-* Due to the highly complex nature of our final goal of creating 'completely interactive' media we have purposely simplified the interactive elements of the project for the first production so we can focus on perfecting the base mechanics i.e. gathering a massive amount of user input and executing it within a live broadcast. In essense, the API in initial productions can be defined as a 'crowd funded narrative'.
-* Our technology stack for this initial stage will consist of an Android, IOS and web broswer based front end. All calculations of viewer score, allocation of crypto rewards, NFTs etc. as well as the hosting and streaming of content will obviously be handled on the server side.
-* Due to the large scope of the project, especially in terms verticle and horizontal scalability, we are running an ongoing scoping exercise which will determind exactly which core components, protocols, architecture, etc. will be deployed. Since this will be a task paid for by WorldBox, some of these aspects (such as final hosting solutions) will only be determind once we start developing the primary elements of the app, which will come after we have completed the block chian aspects of the project.
+* Due to the highly complex nature of our final goal of creating 'completely interactive' media we have purposely simplified the interactive elements of the project for the first production so we can focus on perfecting the base mechanics i.e. gathering a massive amount of user input and executing it within a live broadcast. In essence, the API in initial productions can be defined as a 'crowd funded narrative'.
+* Our technology stack for this initial stage will consist of an Android, IOS and web browser based front end. All calculations of viewer score, allocation of crypto rewards, NFTs etc. as well as the hosting and streaming of content will obviously be handled on the server side.
+* Due to the large scope of the project, especially in terms verticle and horizontal scalability, we are running an ongoing scoping exercise which will determine exactly which core components, protocols, architecture, etc. will be deployed. Since this will be a task paid for by WorldBox, some of these aspects (such as final hosting solutions) will only be determind once we start developing the primary elements of the app, which will come after we have completed the block chian aspects of the project.
 * The WorldBox system was initially developed as a completely analog system of physical sets (as in film sets) and a pen and paper D&D style show, with live actors playing multiple roles and having several costume changes. While Jono Heaney (the projects creator) still hopes to put on a performance like this, he admits it would be a vanity project with a unfeasible budget. The well developed documentation for this flavour of the WorldBox project is available on request.
-* Listing the limitations of the project is an interesting subject as when you fully understand what the end goal of WorldBox is, there is very little the system could not be retasked to do. Leading with this has proven to be a sure way of seeding doubt due to the sheer magnitude of the projects scope, as such, we have started to excluded it almost completely from the marketing and investment material. In short: Once we have developed a system that can accurately replicate the nuances of humour, love, hate, satire etc. within the human frame of reference, it could be set to simulate any manner of tasks in a billion differnt ways, thus finding the most efficient way of completing them, and given the correct interface, perform them better than a human ever could.
+* Listing the limitations of the project is an interesting subject as when you fully understand what the end goal of WorldBox is, there is very little the system could not be retasked to do. Leading with this has proven to be a sure way of seeding doubt due to the sheer magnitude of the projects scope, as such, we have started to excluded it almost completely from the marketing and investment material. In short: Once we have developed a system that can accurately replicate the nuances of humour, love, hate, satire etc. within the human frame of reference, it could be set to simulate any manner of tasks in a billion different ways, thus finding the most efficient way of completing them, and given the correct interface, perform them better than a human ever could.
 
 ### Ecosystem Fit
 
 * In it's initial stages WorldBox will form a bridge between Interactive Games, Passive Broadcast Media, NFT collectibles and Personal wealth.
-* We are looking to bring the massive global audience typically associated with Passive Media into the realm of Interacive Games.
-* WorldBox will provide entertainment for the masses, who will in turn provide backpropogation for train the WorldBox ANN.
+* We will be using NFTs with built in atributes as a way to personalise and manage individual viewer experiences.
+* We are looking to bring the massive global audience typically associated with Passive Media into the realm of Interactive Games.
+* WorldBox will provide entertainment for the masses, who will in turn provide backpropagation for train the WorldBox ANN.
 * As yet there are no similar projects within the Bepro or other networks that we are aware of.
 
 ## Team :busts_in_silhouette:
@@ -56,13 +57,13 @@
 
 ### Team's experience
 
-Suspended Animation - In business since 2003. Hundreds of TV projects both local and interantional. Full work history available on request. A broad cross section of work can be found in our showreels. https://vimeo.com/user3710422
+Suspended Animation - In business since 2003. Hundreds of TV projects both local and international. Full work history available on request. A broad cross section of work can be found in our showreels. https://vimeo.com/user3710422
 
 Touch Foundry - In business since 2010. Massive worldwide footprint. Please see our website for details https://touchfoundry.co.za/our-story/
 
-9mm films - In business since 2005. Hundreds of TV projects both local and international. Full work history available on request. Please chekout our Vimeo for a broad crosssection of our work https://vimeo.com/9mmfilms
+9mm films - In business since 2005. Hundreds of TV projects both local and international. Full work history available on request. Please checkout our Vimeo channel for a broad crosssection of our work https://vimeo.com/9mmfilms
 
-One Nation Studios. In Business since 2012. Hundreds of TV projects both local and international. Please see out site for details of our exstencive body of work. https://www.onenationstudios.co.za/
+One Nation Studios. In Business since 2012. Hundreds of TV projects both local and international. Please see out site for details of our extensive body of work. https://www.onenationstudios.co.za/
 
 
 ### Team Code Repos
@@ -94,66 +95,113 @@ Not Applicable
 
 ## Development Roadmap :nut_and_bolt:
 
-This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to BEPRO Network. We _recommend_ that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-* make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md).
-* include the amount of funding requested _per milestone_.
-* include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-* provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-* commit to providing Dockerfiles for the delivery of your project.
-* indicate milestone duration as well as number of full-time employees working on each milestone.
-* **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
 
-* **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-* **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding _needs to be below $30k for initial grants. This and the costs for each milestone need to be in USD; if the grant is paid out in BEPRO,the amount will be sent in BEPRO directly.
+* **Total Estimated Duration:** 2 years
+* **Full-Time Equivalent (FTE):** To be updated as part of Milestone 2. We need to scope the project as a whole (app, film production and blockchain). Once this is complete we will be able to separate the blockchain elements from the rest and provide an accurate costing and FTE.
+* **Total Costs:** As above (to be updated). Due to the broad scope of the project we will be utilising funds from several sources beyond the Bepro grant.
 
-### Milestone 1 Example — Implement First Modules
+### Milestone 1 — Project structure development
 
-* **Estimated duration:** 1 month
-* **FTE:**  2
-* **Costs:** 8,000 USDC
+* **Estimated duration:** 2017 - Q4 2021
+* **FTE:**  NA
+* **Costs:** NA (internal)
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | module: X | We will create a module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | module: Y | We will create a module that will... |  
-| 3. | module: Z | We will create a module that will... |  
-| 4. | chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+* WorldBox has been in development since 2017 and has been through 3 major re-development stages. It's final structure is now complete and forms our first and arguably one of our most important milestones. The internal documents detailing this final structure (production process, interactive advertising etc.) are available to Bepro on request.
+* The other aspects of this milestone, which are already complete are:
+* -Create project website.
+* -Complete grant application (excluding final costings and coding details which are part of a much wider costing which are step 1 of the 2nd Milestone).
 
 
-### Milestone 2 Example — Additional features
+### Milestone 2 — Core blockchain development
 
-* **Estimated Duration:** 1 month
-* **FTE:**  1
-* **Costs:** 4,000 USDC
+* **Estimated Duration:** 4 months
+* **FTE:**  TBD
+* **Costs:** TBD
 
-...
+* Scope technical aspects of project as a whole. This will be completed by TouchFoundry and will encompass the app development, streaming and hosting, as well as the blockchain element relating to Bepro and this grant. i.e. Define blockchain front end and back end. Confirm budgets, FTE and timeframe for development. 
+* Update Bepro grant document.
+* Create explainer videos as well as associated marketing. (This will be done by Suspended Animation as part of a budget separate from this grant.)
+* Create Interactive Marketing package.
+* Create WorldBox ERC-20 Token. (Using ‘WOX’ as delegation, if available.)
+* Create WorldBox DEX - This will contain a single liquidity pool of USDC which can only be swapped for WOX tokens, which are held in various Prize Pool wallets (established for each production built on the system), as well as in user wallets. WOX tokens of a value equivalent to each USDC input are auto-minted and sent to the relevant wallet(s), with said USDC being inserted into the liquidity pool. The DEX needs to keep track of the total circulating supply of WOX tokens and calculate their value according to Total USDC in the liquidity pool. WOX tokens are burnt when swapped for USDC. Incoming transactions (i.e USDC into the pool) are charged a 3% fee, outgoing transactions (i.e. USDC out of pool) are charged 10%. Half of these fees, which are paid in WOX, are sent to the WorldBox Dev wallet, the other half are burned (i.e. removed from total circulating supply).
+* Create WorldBox NFT Market. This will be a simple auction system where users can put the various WorldBox NFTs up for auction using WOX as the unit of trade. Only WorldBox Devs would have access to a ‘buy now’ function to sell promotional NFTs at a set price for various productions and promotions.
+* Create NFT template which WorldBox devs can use to create the various NFTs for each production, taking into consideration that the attributes of these NFTs will need to be accessed en masse at the beginning of each episode to calculate various interaction and earning metrics. Artwork for each NFT will be a looping GIF based on content taken from its associated production.
+* Hold Stage 1 ICO - Backers pre-purchase a limited quantity of WOX tokens which will only be minted and airdropped just before the 1st production goes live. Backers will also be airdropped rare Earning Multiplier NFTs according to their invested amount. (The capital raised from this Stage 1 ICO will be used to fund the pre-production of the first interactive show and develop interactive advertising packages for prospective advertisers. It will also fund elements of App development not covered by the Bepro grant. Funds raised may also be used to attach an A list actor to the project which would substantially increase its marketability.)
+* Hold Stage 2 ICO - Offering a limited quantity of Tokenized WorldBox profit shares in the form of a profit share NFT. Wallets which hold these NFTs when a snapshot is taken at the close of each broadcast season will receive a share of the WorldBox profits generated during that season from advertising, dex and market revenue. This stage 2 ICO will look to fully fund the first WorldBox production in terms of the typical production process i.e. filming and post production.
+* It should be noted that 1 or possibly both of these ICOs may not be necessary due to the interest we have already had from institutional investors in the project. They will be held if there is a need for additional funds.
+
+### Milestone 3 — App design and Pre-Production process
+
+* **Estimated Duration:** 3 months
+* **FTE:**  TBD
+* **Costs:** TBD
+
+* As above, this stage includes app and broadcast elements outside of the scope of Bepro base code and grant, but are included here to provide clarity due to how they interact with each other.
+* Create the WorldBox App which integrates all the utilities developed to hit Milestone 2 (i.e. Wallet, Dex and Market).
+* Develop core UI and UX in terms of show interaction and video streaming. This will be done in template format to streamline the development and rollout of future interactive productions on the system.
+* Standard web based profile creation which (once a profile has been verified) will be recorded to an NFT. Network fees relating to NFT creation TBD.
+* Creation of 6 mini-game templates (as per production development document) for integration into each production.
+* Pre-production (interactive story structure, scripting, art design, casting, contracts etc.)
+* Film and design low budget video sequence placeholders for system testing.
+* Create example interactive advert for testing as well as marketing demo for advertisers.
+* Rollout app to Testnet
+* Test basic app functions (Profile and associated NFT creation, wallet connection, NFT gallery, NFT Market and Dex).
+* Test viewer interaction mechanisms (UI & UX.)
+* Test broadcast system in terms of the user interaction driving video sequences in real time. This includes the collection and tabulation of mini-game results.
+* Test calculation of viewer episode scores and awarding of WOX tokens incl. NFT modifiers.
+* Test NFT Market. Simulate various economic conditions.
+* Test Dex. (especially in terms of system security)
+* Test Interactive Advertising Templates, Rollout and reward calculation and distribution.
+* Integrate and test Visa/Master card function which allows users to buy WOX tokens directly through the app. The system would need to buy USDC externally, then mint and distribute WOX tokens to wallets accordingly.
+* Sign Interactive Advertising and Broadcast sponsors for first show.
+
+
+### Milestone 4 — Production Content Creation and App Intergtation. Testing.
+
+* **Estimated Duration:** 8-10 months
+* **FTE:**  TBD
+* **Costs:** TBD
+
+* Filming and post production (Primary content creation for first broadcast.)
+* Format and conform video content to WorldBox System, switch out low budget placeholders.
+* Format content for mini-game creation. Finalise minigames and integrate.
+* Format content (artwork) and create broadcast specific NFTs.
+* Creation and rollout of marketing campaigns.
+* Pressure test internal economy and associated elements (token, wallet, NFTs, dex, market, visa/master card facilities).
+* Hold private ‘dress rehearsals’ i.e. test interactive and broadcast systems.
+* Test legacy viewing element.
+* Rollout to Mainnet.
+* Fill liquidity pool with USDC from sponsors and advertisers.
+* Release app to the public but with limited functionally (profile creation, wallet connection, direct WOX purchase).
+* Airdrop WOX and NFTs to early backers. (If ICO(s) are held).
+* Airdrop NFTs won in promotions.
+* Activate all functionality on the app.
+* FIRST BROADCAST goes live.
+* Viewers start to receive interaction rewards.
+* First prize giving - Production#1 Prize pool distributed to top 10 viewers at the end of season 1.
+* Gen 1 NFTs distributed to all viewers who complete the first production.
+* Legacy viewing mechanisms activated in app for season 1.
 
 
 ## Future Plans
 
-WorldBox has been carefully segmented so as each portion of the project can stand alone as an appealing (in terms entertainment) and profitable business venture. Each subsequent stage is designed to fund the next, adding more interaction and collecting more user data (in terms of how humans like to experience a narrative.)
+* WorldBox has been carefully segmented so as each portion of the project can stand alone as an appealing (in terms entertainment) and profitable business venture. Each subsequent stage is designed to fund the next, adding more interaction and collecting more user data (in terms of how humans like to experience a narrative.)
+* From this point forward, with well established systems and templates in place, WorldBox will:
+* - Develop and broadcast new shows on the system.
+* - Develop new mini games and increasingly complex interactive elements.
+* - Begin developing the data miner which collects audience input in such a way as to map out narrative patterns. With a working, profitable system in place we will be looking to partner up with companies who are working on Artificial Neural Networks, such as OpenAI.
+* - Look to license the broadcast system to established shows (such as Survivor and The Bachelorette) which can be rejuvenated through the incorporation of audience input.
+* - Look to license the content and app to major streaming platforms (such as Netflix) - Although we will be looking to make these agreements from a much earlier stage as part of our film production phase.
+
 
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?**  I initially left a message via the Bepro webform enquiring what the process would be to setup my own NFT gallery (due to being lost in the deluge of Open Sea - you can find my work here https://opensea.io/theMilitantBitCollective ) Filipe contacted me and through this interaction I learnt about the BUIDL initiative. 
+**How did you hear about the Grants Program?**  
+* I initially left a message via the Bepro webform enquiring what the process would be to setup my own NFT gallery (due to being lost in the deluge of Open Sea - you can find my work here https://opensea.io/theMilitantBitCollective ) Filipe contacted me and through this interaction I learnt about the BUIDL initiative. 
 
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+Additional information relevant to this application but isn't part of it already:
 
 Not Applicable at this point in time.
