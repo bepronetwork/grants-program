@@ -156,6 +156,7 @@ Not Applicable
 * Test NFT Market. Simulate various economic conditions.
 * Test Dex. (especially in terms of system security)
 * Test Interactive Advertising Templates, Rollout and reward calculation and distribution.
+* Test Profit share NFT fund distribution mechanism.
 * Integrate and test Visa/Master card function which allows users to buy WOX tokens directly through the app. The system would need to buy USDC externally, then mint and distribute WOX tokens to wallets accordingly.
 * Sign Interactive Advertising and Broadcast sponsors for first show.
 
