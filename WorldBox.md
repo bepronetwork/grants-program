@@ -37,7 +37,7 @@
 * Team Leader (WorldBox.TV, Suspended Animation) Jonathan Heaney 
 * App and Code Development (Touch Foundry) Fabio Longano 
 * Film Production (9mm Films) Peter Heaney
-* Sound Production (One Nation Studios) Greg Canning
+* Sound Design (One Nation Studios) Greg Canning
 
 ### Contact
 
