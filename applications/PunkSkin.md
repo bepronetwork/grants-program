@@ -24,15 +24,7 @@ Development of a WebApp for 10,000 limited NFTs randomly generated IPFS hosted a
 
 ### Project Details (in development) 
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
-* Mockups/designs of any UI components
-* Data models / API specifications of the core functionality
-* An overview of the technology stack to be used
-* Documentation of core components, protocols, architecture, etc. to be deployed
-* PoC/MVP or other relevant prior work or research on the topic
-* What your project is _not_ or will _not_ provide or implement
-  * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+w.i.p
 
 ### Ecosystem Fit
 
@@ -43,7 +35,6 @@ Due to the limited supply, PunkSkin are made digitally scarce in the NFTs' block
 
 * PunkSkin can be trade and collect in the NFTs ecosyctem.
 * PunkSkin is made for passionate digital art collectors and traders. 
-* What need(s) does your project meet?
 * There are plenty of new generative art lunched every months as we speak and the most reconiged ones are the O.G CryptoPunks, Bored Ape Yacht Club, Top Dog Beach Club, etc.
   * As a 3D/2D artist working in the creative industrail for more than 10 years, quality/style and passion are the ingredient to create an impeccable masterpiece.
   * Jamie Hewlett's art really resonates with me, he is best known as the co-creator of the comic book Tank Girl and co-creator of the virtual band Gorillaz. PunkSkin's art direction will definitely be inspired by Jamie Hewlett's art style.
@@ -80,59 +71,58 @@ Please list the name of the project and legal entity here.
 
 ### Team Code Repos
 
-* https://github.com/<your_organisation>
-* https://github.com/<your_organisation>/<project_1>
-* https://github.com/<your_organisation>/<project_2>
+* https://github.com/nicspoon
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 * https://github.com/nicspoon
-* https://github.com/<team_member_2>
+
 
 ### Team LinkedIn Profiles (if available)
 
 * https://www.linkedin.com/nicspoon
-* https://www.linkedin.com/<person_2>
+
 
 ## Development Status :open_book:
 
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-* academic publications relevant to the problem,
-* links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-* references to conversations you might have had related to this project with anyone from the bepro network core team,
-* previous interface iterations, such as mock-ups and wireframes.
+* Developmenting look and design for PunkSkin.
 
 ## Development Roadmap :nut_and_bolt:
 
-This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
+(updated 13th August 2021)
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to BEPRO Network. We _recommend_ that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month.
+DESIGN WORK
 
-For each milestone,
+\\\ Avatar research (July - Sept 2021)
+* Task 01: 1-3 Samples of approved base skin for avatar and story behind the universe.
+* Task 02: Guideline on how many categories & traits to implement. (Skin + ( hair + sad + skintone + goggles + hi-tech/low-tech) 
+* Task 03: Identified the rarity of the traits. (Quality control)
+* Task 04: x1 front page Illustration, serves as a promotional use on social media.
 
-* make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md).
-* include the amount of funding requested _per milestone_.
-* include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-* provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-* commit to providing Dockerfiles for the delivery of your project.
-* indicate milestone duration as well as number of full-time employees working on each milestone.
-* **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
+\\\ Avatar production (Oct - Dec 2021)
+* Task 01: Base skin has to be ready to match with traits. 
+* Task 02: Producing the traits outline. / Front page’s illustration
+* Task 03: Colored for all.
+* Task 04: Bepro’s developer to test on generating the base skin with traits for evaluation.
+* Task 05: Final refinement on traits and fix any abnormality occurrence for re-generation/
+
+\\\ Build smart contract for the ERC721 Factory 
+* Run test to identified errors and refinement. (NOV 2021)
+
 
 > :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
 
-* **Total Estimated Duration:** 3 months ( October - December) 
-* **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding _needs to be below $30k for initial grants. This and the costs for each milestone need to be in USD; if the grant is paid out in BEPRO,the amount will be sent in BEPRO directly.
+* **Total Estimated Duration:** 3 months (Octobe/November/December)
+* **Full-Time Equivalent (FTE):**  1
+* **Total Costs:** 
 
 ### Milestone 1 Example — Implement First Modules
 
-* **Estimated duration:** 1 month
-* **FTE:**  2
-* **Costs:** 8,000 USDC
+* **Estimated duration:** 
+* **FTE:**  
+* **Costs:** 
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -149,27 +139,24 @@ To assist you in defining it, we have created a document with examples for some 
 
 ### Milestone 2 Example — Additional features
 
-* **Estimated Duration:** 1 month
-* **FTE:**  1
-* **Costs:** 4,000 USDC
+* **Estimated Duration:** 
+* **FTE:**  
+* **Costs:** 
 
 ...
 
 
 ## Future Plans
 
-Please include here
+* Possibly upgrade from 2D to 3D visual.
+* Possibly intregraton of PunkSkin2088 with metaverse.
 
-* how you intend to use, enhance, promote and support your project in the short term, and
-* the team's long-term plans and intentions in relation to it.
 
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?**  Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?**  Medium
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-* Work you have already done.
-* Wheter there are any other teams who have already contributed (financially) to the project.
-* Previous grants you may have applied for.
+
