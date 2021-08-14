@@ -85,26 +85,22 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ## Development Status :open_book:
 
-* Developmenting look and design for PunkSkin.
+* Development in progress.
 
 ## Development Roadmap :nut_and_bolt:
 
-(updated 13th August 2021)
+* Art development for PunkSkins
+* Webiste design
 
-DESIGN WORK
 
-\\\ Avatar research (July - Sept 2021)
-* Task 01: 1-3 Samples of approved base skin for avatar and story behind the universe.
-* Task 02: Guideline on how many categories & traits to implement. (Skin + ( hair + sad + skintone + goggles + hi-tech/low-tech) 
-* Task 03: Identified the rarity of the traits. (Quality control)
-* Task 04: x1 front page Illustration, serves as a promotional use on social media.
+build the smart contract for the ERC721 Factory based on the rules of 1.09% inflation cost of each piece after the previous is bought
+creation of the javascript wrapper
+unit tests
+provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
+commit to providing Dockerfiles for the delivery of your project.
+integrate with the front end via javascript object bridge.js
+create a PR to the main bepro-js package
 
-\\\ Avatar production (Oct - Dec 2021)
-* Task 01: Base skin has to be ready to match with traits. 
-* Task 02: Producing the traits outline. / Front page’s illustration
-* Task 03: Colored for all.
-* Task 04: Bepro’s developer to test on generating the base skin with traits for evaluation.
-* Task 05: Final refinement on traits and fix any abnormality occurrence for re-generation/
 
 \\\ Build smart contract for the ERC721 Factory 
 * Run test to identified errors and refinement. (NOV 2021)
