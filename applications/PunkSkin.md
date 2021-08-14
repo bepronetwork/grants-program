@@ -113,36 +113,42 @@ DESIGN WORK
 > :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
+PunkSkin
 
 * **Total Estimated Duration:** 3 months (Octobe/November/December)
 * **Full-Time Equivalent (FTE):**  1
-* **Total Costs:** 
+* **Total Costs:** 30k
 
 ### Milestone 1 Example — Implement First Modules
 
-* **Estimated duration:** 
-* **FTE:**  
-* **Costs:** 
+* **Estimated duration:** 1 month (October 2021) 
+* **FTE:** 1
+* **Costs:**8,000 USDC 
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | module: X | We will create a module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | module: Y | We will create a module that will... |  
-| 3. | module: Z | We will create a module that will... |  
-| 4. | chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
-
+Production initiation: Early October 2021
+Website live date:     End October 2021
+Minting launch date:   T.B.C
+Member page/Merch  :   T.B.C
+...
 
 ### Milestone 2 Example — Additional features
 
-* **Estimated Duration:** 
-* **FTE:**  
-* **Costs:** 
+* **Estimated Duration:** 3 months (July-December)
+* **FTE:** 3 
+* **Costs:** 8,000 USDC
 
+\\\ Avatar research (July - Sept 2021)
+* Task 01: 1-5 Samples of approved base skin for avatar and story behind the universe.
+* Task 02: Guideline on how many categories & traits to implement. (Skin + ( hair + sad + skintone + goggles + hi-tech/low-tech) 
+* Task 03: Identified the rarity of the traits. (Quality control)
+* Task 04: x1 front page Illustration, serves as a promotional use on social media.
+
+\\\ Avatar production (Oct - Dec 2021)
+* Task 01: Base skin has to be ready to match with traits. 
+* Task 02: Producing the traits outline. / Front page’s illustration
+* Task 03: Colored for all.
+* Task 04: Bepro’s developer to test on generating the base skin with traits for evaluation.
+* Task 05: Final refinement on traits and fix any abnormality occurrence for re-generation/
 ...
 
 
