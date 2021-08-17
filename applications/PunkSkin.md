@@ -156,8 +156,8 @@ Member page/Merch  :   T.B.C
 
 ## Future Plans
 
-* Possibly upgrade from 2D to 3D visual.
-* Possibly intregraton of PunkSkin2088 with metaverse.
+* Looking into 3D model.
+* Possibly intregration of PunkSkin2088 into metaverse.
 
 
 
