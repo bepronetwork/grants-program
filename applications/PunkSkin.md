@@ -80,7 +80,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ### Team LinkedIn Profiles (if available)
 
-* https://www.linkedin.com/nicspoon
+* https://www.linkedin.com/in/nicspoon/
 
 
 ## Development Status :open_book:
