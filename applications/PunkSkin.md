@@ -113,13 +113,13 @@ PunkSkin
 
 * **Total Estimated Duration:** 3 months (Octobe/November/December)
 * **Full-Time Equivalent (FTE):**  1
-* **Total Costs:** 30k
+* **Total Costs:** Bepro's garnts
 
-### Milestone 1 Example — Implement First Modules
+### Milestone 1 — Implement First Modules
 
 * **Estimated duration:** 1 month (October 2021) 
 * **FTE:** 1
-* **Costs:**8,000 USDC 
+* **Costs:** 10% from Bepro's grants
 
 Production initiation: Early October 2021
 Website live date:     End October 2021
@@ -127,17 +127,23 @@ Minting launch date:   T.B.C
 Member page/Merch  :   T.B.C
 ...
 
-### Milestone 2 Example — Additional features
+### Milestone 2 — Additional features
 
-* **Estimated Duration:** 3 months (July-December)
+* **Estimated Duration:** 3 months (July-September)
 * **FTE:** 3 
-* **Costs:** 8,000 USDC
+* **Costs:** 20% from Bepro's grants
 
 \\\ Avatar research (July - Sept 2021)
 * Task 01: 1-5 Samples of approved base skin for avatar and story behind the universe.
 * Task 02: Guideline on how many categories & traits to implement. (Skin + ( hair + sad + skintone + goggles + hi-tech/low-tech) 
 * Task 03: Identified the rarity of the traits. (Quality control)
 * Task 04: x1 front page Illustration, serves as a promotional use on social media.
+
+### Milestone 3 — Additional features
+
+* **Estimated Duration:** 3 months (October-December)
+* **FTE:** 3 
+* **Costs:** 20% from Bepro's grants
 
 \\\ Avatar production (Oct - Dec 2021)
 * Task 01: Base skin has to be ready to match with traits. 
