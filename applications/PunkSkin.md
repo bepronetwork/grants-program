@@ -167,4 +167,3 @@ Member page/Merch  :   T.B.C
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-
