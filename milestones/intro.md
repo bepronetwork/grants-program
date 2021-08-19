@@ -10,7 +10,7 @@ These are the guidelines to be followed for milestones submitted for evaluation.
 
 ## Invoice
 
-Although a milestone needs to be reviewed and accepted, you can already submit your invoice through [this form](https://docs.google.com/forms/#).
+Although a milestone needs to be reviewed and accepted, you can already submit your invoice through [this form](https://docs.google.com/forms/d/e/1FAIpQLSdNAWyj8J0EbcEir75pUQhEmcp-8_QmGMY05uqUULbOE-rA1A/viewform).
 
 ## Content
 
