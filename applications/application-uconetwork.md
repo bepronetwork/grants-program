@@ -4,9 +4,9 @@
 >
 > See the [Grants Program Process](https://github.com/bepronetwork/grants-program/#pencil-process) on how to submit a proposal.
 
-* **Project Name:** Name of your project (e.g. DuoSwap Module)
-* **Team Name:** Legal name of your team (e.g. Duo)
-* **Payment Address:** BEPRO or USDC payment address. We don't accept payments for the program in other currencies at this stage. If this is an Ethereum address, please specify BEPRO or USDC. (e.g. 0x8920... (DAI))
+* **Project Name:** UCO Network
+* **Team Name:** Treasure Fusion
+* **Payment Address:** 0x2c847F4a0B6633d3B19DE457007473025f6d23cb (BEPRO)
 
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
@@ -16,10 +16,10 @@
 
 Please provide the following:
 
-* If the name of your project is not descriptive, a tag line (one sentence summary).
-* A brief description of your project.
+* UCO Network (used cooking oil network).
+* A Blockchain for Advanced BioFuels.
 * An indication of how your project relates to / integrates into Bepro Network / Bepro-js
-* An indication of why your team is interested in creating this project.
+* We are interested in creating a ecosystem that awards who is enviromental friend trough waste to wealth and all the stakeholder´s.
 
 ### Project Details
 
@@ -37,36 +37,37 @@ We expect the teams to already have a solid idea about your project's expected f
 
 Help us locate your project in the Blockchain landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem?
-* Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+* Where and how does your project fit into the ecosystem? A high demand of UCO (used cooking oil) combined with limited supply requires strong rules and regulations, but current rules and regulations lead to a non-transparent certification process of the sustainability of UCO.
+* Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? Our user base.
 * What need(s) does your project meet?
-* Are there any other projects similar to yours in the BEPRO Network ecosystem?
+* Are there any other projects similar to yours in the BEPRO Network ecosystem? No
   * If so, how is your project different?
-  * If not, are there similar projects in related ecosystems?
+  * If not, are there similar projects in related ecosystems? No
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
-* Name of team leader
-* Names of team members 
+* Name of team leader - Luis Pedro Rodrigues Durães
+* Names of team members Luis Durães, Miguel Costa, Rui Gaspar.
 
 ### Contact
 
-* **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. john@duo.com)
-* **Website:**
+* **Contact Name:** Luis Pedro Rodrigues Durães
+* **Contact Email:** luisduraes@treasurefusion.pt
+* **Website:** https://www.uconetwork.com
 
 ### Legal Structure
 
-* **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-* **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+* **Registered Address:** Rua Infante D. Henrique nº56, 4750-271, Barcelos, Portugal (PT)
+* **Registered Legal Entity:** Treasure Fusion uni Lda
 
 
 ### Team's Location
 
-* **Place of Operations:** Place of Operations of team member 1
-* **Place of Operations:** Place of Operations of team member 2
+* **Place of Operations:** Place of Operations of team member 1, Barcelos, (PT)
+* **Place of Operations:** Place of Operations of team member 2, Dubai, (EAU)
+* **Place of Operations:** Place of Operations of team member 3, Coimbra, (PT)
 
 ### Team's experience
 
