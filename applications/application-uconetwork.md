@@ -88,7 +88,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ### Team LinkedIn Profiles (if available)
 
-* https://www.linkedin.com/<person_1>
+* https://www.linkedin.com/in/luis-duraes-91b944b3/
 * https://www.linkedin.com/<person_2>
 
 ## Development Status :open_book:
