@@ -51,7 +51,7 @@ We believe there are many use cases of applications built with bepro.js, that co
 * **Website:** https://crypto.com/pay-merchant
 
 ### Team's Location
-* **Place of Operations:** Singapore
+* **Place of Operations:** Hong Kong
 
 ### Team Code Repos
 * https://github.com/crypto-com
