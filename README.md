@@ -18,7 +18,7 @@
 
 ## :wave: Introduction
 
-As part of our commitment to promoting the bepro network developer/dapps ecosystem, we offer comprehensive grants programs focused on funding software development and research efforts related to **EVM Development Projects, Extension of Bepro-js capabilities or use of the Protocol to decentralize the development of open source projects** - this funding capital/treasury comes from the "Developer Boostrap" & "Ecosystem" portions, both in USDC & BEPRO value, +1,000,000€ to be deployed - the attributed can go up to 2,500,000€.
+As part of our commitment to promoting the bepro network developer/dapps ecosystem, we offer comprehensive grants programs focused on funding software development and research efforts related to **EVM Development Projects, Extension of Bepro-js capabilities or use of the Protocol to decentralize the development of open source projects** - this funding capital/treasury comes from the "Developer Boostrap" & "Ecosystem" portions, both in USDC & BEPRO value, +1,000,000€ to be deployed - the attributed amounts can go up to 2,500,000€.
 
 ### Guidelines
 
