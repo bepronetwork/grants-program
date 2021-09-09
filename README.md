@@ -69,7 +69,7 @@ The committee consists of individuals who know the funding priorities of the Bep
 
 ## :pencil: Process
 
-> **:loudspeaker:** The process below allows for grants of up to **10M BEPRO or 25K USDC per application**. Payment is made in BEPRO or USDC
+> **:loudspeaker:** The process below allows for grants of up to **25K EUR per application**. Payment is made in BEPRO or stable currencies.
 
 1. **Application**
    1. [Fork](https://github.com/bepronetwork/grants-program/fork) this repository.
