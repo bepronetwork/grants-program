@@ -121,18 +121,41 @@ Not Applicable
 * **FTE:**  TBD
 * **Costs:** TBD
 
-* Scope technical aspects of project as a whole. This will be completed by TouchFoundry and will encompass the app development, streaming and hosting, as well as the blockchain element relating to Bepro and this grant. i.e. Define blockchain front end and back end. 
-* Confirm budgets, FTE and timeframe for development. 
+* Scope technical aspects of project as a whole.
+* Confirm budgets, FTE and timeframe for development.
 * Update Bepro grant document.
-* Create explainer videos as well as associated marketing. (This will be done by Suspended Animation as part of a budget separate from this grant.)
+* Create WorldBox BEP20 Token.
+* Create User Data Service.
+* Create explainer videos as well as associated marketing.
 * Create Interactive Marketing package.
-* Create WorldBox ERC-20 Token. (Using ‘WOX’ as delegation, if available.)
-* Create WorldBox DEX - This will contain a single liquidity pool of USDC which can only be swapped for WOX tokens, which are held in various Prize Pool wallets (established for each production built on the system), as well as in user wallets. WOX tokens of a value equivalent to each USDC input are auto-minted and sent to the relevant wallet(s), with said USDC being inserted into the liquidity pool. The DEX needs to keep track of the total circulating supply of WOX tokens and calculate their value according to Total USDC in the liquidity pool. WOX tokens are burnt when swapped for USDC. Incoming transactions (i.e USDC into the pool) are charged a 3% fee, outgoing transactions (i.e. USDC out of pool) are charged 10%. Half of these fees, which are paid in WOX, are sent to the WorldBox Dev wallet, the other half are burned (i.e. removed from total circulating supply).
-* Create WorldBox NFT Market. This will be a simple auction system where users can put the various WorldBox NFTs up for auction using WOX as the unit of trade. Only WorldBox Devs would have access to a ‘buy now’ function to sell promotional NFTs at a set price for various productions and promotions.
-* Create NFT template which WorldBox devs can use to create the various NFTs for each production, taking into consideration that the attributes of these NFTs will need to be accessed en masse at the beginning of each episode to calculate various interaction and earning metrics. Artwork for each NFT will be a looping GIF based on content taken from its associated production.
-* Hold Stage 1 ICO - Backers pre-purchase a limited quantity of WOX tokens which will only be minted and airdropped just before the 1st production goes live. Backers will also be airdropped rare Earning Multiplier NFTs according to their invested amount. (The capital raised from this Stage 1 ICO will be used to fund the pre-production of the first interactive show and develop interactive advertising packages for prospective advertisers. It will also fund elements of App development not covered by the Bepro grant. Funds raised may also be used to attach an A list actor to the project which would substantially increase its marketability.)
-* Hold Stage 2 ICO - Offering a limited quantity of Tokenized WorldBox profit shares in the form of a profit share NFT. Wallets which hold these NFTs when a snapshot is taken at the close of each broadcast season will receive a share of the WorldBox profits generated during that season from advertising, dex and market revenue. This stage 2 ICO will look to fully fund the first WorldBox production in terms of the typical production process i.e. filming and post production.
-* It should be noted that 1 or possibly both of these ICOs may not be necessary due to the interest we have already had from institutional investors in the project. They will be held if there is a need for additional funds.
+
+#### Development roadmap
+> WorldBox BEP20 Token - Estimated development time - **40 Days**
+> 
+> Includes unit tests & documentation  
+* Setting up of Repository / Project
+* Create Contract
+* Mint Token
+* Burn Token
+* Cross account authorization
+* Snapshots
+* Deploy contract
+
+> User Data Service - Estimated development time - **30 Days**
+>
+> Includes unit tests & documentation
+* Create DB Model that describes a user
+* CRUD operations
+* Ability: Add USDC
+* Ability: Withdraw USDC
+* Attribute: Owned USDC
+* Attribute: Full Name
+* Attribute: Email
+* Attribute: Country
+
+> Milestone 2 Gantt
+
+![Gantt of Milestone 2](images/milestone-2-gantt.jpg "milestone 2 gantt")
 
 ### Milestone 3 — App design and Pre-Production process
 
