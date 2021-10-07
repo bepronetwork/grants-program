@@ -115,7 +115,7 @@ Not Applicable
 * -Complete grant application (excluding final costings and coding details which are part of a much wider costing which are step 1 of the 2nd Milestone).
 
 
-### Milestone 2 — Core blockchain development
+### Milestone 2 — Core Marketing and Token development
 
 * **Estimated Duration:** 4 months
 * **FTE:**  TBD
