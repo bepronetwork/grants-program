@@ -163,7 +163,7 @@ Not Applicable
 * **FTE:**  TBD
 * **Costs:** TBD
 
-* Create WorldBox DEX - This will contain a single liquidity pool of USDC which can only be swapped for WOX tokens, which are held in various Prize Pool wallets (established for each production built on the system), as well as in user wallets. WOX tokens of a value equivalent to each USDC input are auto-minted and sent to the relevant wallet(s), with said USDC being inserted into the liquidity pool. The DEX needs to keep track of the total circulating supply of WOX tokens and calculate their value according to Total USDC in the liquidity pool. WOX tokens are burnt when swapped for USDC. Incoming transactions (i.e USDC into the pool) are charged a 3% fee, outgoing transactions (i.e. USDC out of pool) are charged 10%. Half of these fees, which are paid in WOX, are sent to the WorldBox Dev wallet, the other half are burned (i.e. removed from total circulating supply). @Luke This would include a page added to the WorldBox.tv website at a later. so please include.
+* Create WorldBox DEX - This will contain a single liquidity pool of USDC which can only be swapped for WOX tokens, which are held in various Prize Pool wallets (established for each production built on the system), as well as in user wallets. WOX tokens of a value equivalent to each USDC input are auto-minted and sent to the relevant wallet(s), with said USDC being inserted into the liquidity pool. The DEX needs to keep track of the total circulating supply of WOX tokens and calculate their value according to Total USDC in the liquidity pool. WOX tokens are burnt when swapped for USDC. Incoming transactions (i.e USDC into the pool) are charged a 3% fee, outgoing transactions (i.e. USDC out of pool) are charged 10%. Half of these fees, which are paid in WOX, are sent to the WorldBox Dev wallet, the other half are burned (i.e. removed from total circulating supply).
 * Hold Stage 1 ICO - Backers pre-purchase a limited quantity of WOX tokens which will only be minted and airdropped just before the 1st production goes live. Backers will also be airdropped rare Earning Multiplier NFTs according to their invested amount. (The capital raised from this Stage 1 ICO will be used to fund the pre-production of the first interactive show and develop interactive advertising packages for prospective advertisers. It will also fund elements of App development not covered by the Bepro grant. Funds raised may also be used to attach an A list actor to the project which would substantially increase its marketability.)
 
 #### Development roadmap
@@ -242,11 +242,28 @@ Not Applicable
 * Test Dex. (especially in terms of system security)
 * Test Interactive Advertising Templates, Rollout and reward calculation and distribution.( See section below for more details)
 * Integrate and test Visa/Master card function which allows users to buy WOX tokens directly through the app. The system would need to buy USDC externally, then mint and distribute WOX tokens to wallets accordingly.
-* Creation of 6 mini-game templates (as per production development document) for integration into each production. @Luke the design of these will be provided from my end (graphics and mechanics) - for your end it would involve the coding and implementation in the app.
+* Creation of 6 mini-game templates (as per production development document) for integration into each production.
 * Pre-production (interactive story structure, scripting, art design, casting, contracts etc.)
 * Film and design low budget video sequence placeholders for system testing.
-* Create example interactive advert for testing as well as marketing demo for advertisers. @Luke Design on my end - coding your side. Basically a template where e.g. A 15sec Coke advert (video) with 7 hidden coke bottles that users can click to get WOX rewards.
+* Create example interactive advert for testing as well as marketing demo for advertisers.
 * Sign Interactive Advertising and Broadcast sponsors for first show.
+
+#### Development roadmap
+> WorldBox App - Estimated development time - **365 Days**
+>
+> Includes unit tests & documentation
+* Root Page - 21 Days
+* Profile Setup Page - 12 Days
+* Show Time Root Page - 14 Days
+* Profile Root Page, including character modification - 45 Days
+* NFT Gallery - 34 Days
+* Wallet integration - 35 Days
+* Help, FAQ, Contact - 4.5 Days
+* Character Setup - 34 Days
+* NFT Market - 29 Days
+* DEX - 20 Days
+* Mini-game Template - 32 Days
+* Interactive Ads - 32 Days
 
 
 ### Milestone 6 — Production Content Creation and App Intergtation. Testing.
@@ -276,6 +293,13 @@ Not Applicable
 * Gen 1 NFTs distributed to all viewers who complete the first production.
 * Legacy viewing mechanisms activated in app for season 1.
 
+#### Development roadmap
+> LIVE Rollout - Estimated development time - **28 Days**
+
+* Contract deployment - 10 Days
+* Service hosting - 5 Days
+* Frontend hosting - 3 Days
+* Infrastructure setup - 10 Days
 
 ## Future Plans
 
