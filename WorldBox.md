@@ -192,6 +192,65 @@ Not Applicable
 
 ### Milestone 4 — Production Content Creation and App Intergtation. Testing.
 
+* **Estimated Duration:** 3 months
+* **FTE:**  TBD
+* **Costs:** TBD
+
+* Create WorldBox NFT Market. This will be a simple auction system where users can put the various WorldBox NFTs up for auction using WOX as the unit of trade. Only WorldBox Devs would have access to a ‘buy now’ function to sell promotional NFTs at a set price for various productions and promotions.
+* Create NFT template which WorldBox devs can use to create the various NFTs for each production, taking into consideration that the attributes of these NFTs will need to be accessed en masse at the beginning of each episode to calculate various interaction and earning metrics. Artwork for each NFT will be a looping GIF based on content taken from its associated production.
+* Hold Stage 2 ICO - Offering a limited quantity of Tokenized WorldBox profit shares in the form of a profit share NFT. Wallets which hold these NFTs when a snapshot is taken at the close of each broadcast season will receive a share of the WorldBox profits generated during that season from advertising, dex and market revenue. This stage 2 ICO will look to fully fund the first WorldBox production in terms of the typical production process i.e. filming and post production.
+
+#### Development roadmap
+> WorldBox NFT - Estimated development time - **35 Days**
+>
+> Includes unit tests & documentation
+* Design Token attributes
+* Store artwork of token
+* Retrieve tokens en masse
+* Ability: WB devs can create tokens using template
+
+> NFT Market - Estimated development time - **40 Days**
+>
+> Includes unit tests & documentation
+* Ability: List NFT for sale [set time limit] [buyout price] [starting price]
+* Ability: Bid
+* Ability: Win auction
+* Ability: Devs list NFT at fixed price - buyout function
+* Address for storing NFTs that are listed
+* Address for storing bids
+
+> Milestone 4 Gantt
+
+![Gantt of Milestone 4](images/milestone-4-gantt.jpg "milestone 4 gantt")
+
+### Milestone 5 — App design and implementation on Bepro testnet. Pre-Production process. Interactive Advertising test. Payment gateway testing.
+
+* **Estimated Duration:** TBD
+* **FTE:**  TBD
+* **Costs:** TBD
+
+* As above, this stage includes app and broadcast elements outside of the scope of Bepro base code and grant, but are included here to provide clarity due to how they interact with each other.
+* Create the WorldBox App which integrates all the utilities developed in previous Milestone (i.e. Wallet, Dex and Market).
+* Develop core UI and UX in terms of show interaction and video streaming. This will be done in template format to streamline the development and rollout of future interactive productions on the system.
+* Standard web based profile creation which (once a profile has been verified) will be recorded to an NFT. Network fees relating to NFT creation TBD.
+* Rollout app to Testnet
+* Test basic app functions (Profile and associated NFT creation, wallet connection, NFT gallery, NFT Market and Dex).
+* Test viewer interaction mechanisms (UI & UX.)
+* Test broadcast system in terms of the user interaction driving video sequences in real time. This includes the collection and tabulation of mini-game results.
+* Test calculation of viewer episode scores and awarding of WOX tokens incl. NFT modifiers.
+* Test NFT Market. Simulate various economic conditions.
+* Test Dex. (especially in terms of system security)
+* Test Interactive Advertising Templates, Rollout and reward calculation and distribution.( See section below for more details)
+* Integrate and test Visa/Master card function which allows users to buy WOX tokens directly through the app. The system would need to buy USDC externally, then mint and distribute WOX tokens to wallets accordingly.
+* Creation of 6 mini-game templates (as per production development document) for integration into each production. @Luke the design of these will be provided from my end (graphics and mechanics) - for your end it would involve the coding and implementation in the app.
+* Pre-production (interactive story structure, scripting, art design, casting, contracts etc.)
+* Film and design low budget video sequence placeholders for system testing.
+* Create example interactive advert for testing as well as marketing demo for advertisers. @Luke Design on my end - coding your side. Basically a template where e.g. A 15sec Coke advert (video) with 7 hidden coke bottles that users can click to get WOX rewards.
+* Sign Interactive Advertising and Broadcast sponsors for first show.
+
+
+### Milestone 6 — Production Content Creation and App Intergtation. Testing.
+
 * **Estimated Duration:** 8-10 months
 * **FTE:**  TBD
 * **Costs:** TBD
@@ -207,9 +266,10 @@ Not Applicable
 * Rollout to Mainnet.
 * Fill liquidity pool with USDC from sponsors and advertisers.
 * Release app to the public but with limited functionally (profile creation, wallet connection, direct WOX purchase).
-* Airdrop WOX and NFTs to early backers. (If ICO(s) are held).
+* Airdrop WOX and NFTs to early backers.
 * Airdrop NFTs won in promotions.
 * Activate all functionality on the app.
+
 * FIRST BROADCAST goes live.
 * Viewers start to receive interaction rewards.
 * First prize giving - Production#1 Prize pool distributed to top 10 viewers at the end of season 1.
