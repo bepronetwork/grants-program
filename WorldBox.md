@@ -67,7 +67,6 @@ One Nation Studios. In Business since 2012. Hundreds of TV projects both local a
 
 
 ### Team Code Repos
-To be completed by Touch Foundry team once we commence the coding part of the project.
 
 * https://github.com/<your_organisation>
 * https://github.com/<your_organisation>/<project_1>
@@ -80,9 +79,7 @@ GitHub accounts of team members.
 * And our case studies which can be found here.
 * https://touchfoundry.co.za/case-studies/
 
-* To be completed by Touch Foundry team once we commence the coding part of the project.
-* https://github.com/<team_member_1>
-* https://github.com/<team_member_2>
+* https://github.com/LukeTouchFoundry
 
 ### Team LinkedIn Profiles
 
@@ -99,9 +96,9 @@ Not Applicable
 
 ### Overview
 
-* **Total Estimated Duration:** 2 years
-* **Full-Time Equivalent (FTE):** To be updated as part of Milestone 2. We need to scope the project as a whole (app, film production and blockchain). Once this is complete we will be able to separate the blockchain elements from the rest and provide an accurate costing and FTE.
-* **Total Costs:** As above (to be updated). Due to the broad scope of the project we will be utilising funds from several sources beyond the Bepro grant.
+* **Total Estimated Duration:** 438 Days
+* **Full-Time Equivalent (FTE):** 102
+* **Total Costs:** $208 000
 
 ### Milestone 1 — Project structure development
 
@@ -117,9 +114,9 @@ Not Applicable
 
 ### Milestone 2 — Core Marketing and Token development
 
-* **Estimated Duration:** 4 months
-* **FTE:**  TBD
-* **Costs:** TBD
+* **Estimated Duration:** 50 days
+* **FTE:**  10
+* **Costs:** $20 000
 
 * Scope technical aspects of project as a whole.
 * Confirm budgets, FTE and timeframe for development.
@@ -159,12 +156,12 @@ Not Applicable
 
 ### Milestone 3 — App design and Pre-Production process
 
-* **Estimated Duration:** 3 months
-* **FTE:**  TBD
-* **Costs:** TBD
+* **Estimated Duration:** 90 Days
+* **FTE:**  17
+* **Costs:** $38 000
 
-* Create WorldBox DEX - This will contain a single liquidity pool of USDC which can only be swapped for WOX tokens, which are held in various Prize Pool wallets (established for each production built on the system), as well as in user wallets. WOX tokens of a value equivalent to each USDC input are auto-minted and sent to the relevant wallet(s), with said USDC being inserted into the liquidity pool. The DEX needs to keep track of the total circulating supply of WOX tokens and calculate their value according to Total USDC in the liquidity pool. WOX tokens are burnt when swapped for USDC. Incoming transactions (i.e USDC into the pool) are charged a 3% fee, outgoing transactions (i.e. USDC out of pool) are charged 10%. Half of these fees, which are paid in WOX, are sent to the WorldBox Dev wallet, the other half are burned (i.e. removed from total circulating supply).
-* Hold Stage 1 ICO - Backers pre-purchase a limited quantity of WOX tokens which will only be minted and airdropped just before the 1st production goes live. Backers will also be airdropped rare Earning Multiplier NFTs according to their invested amount. (The capital raised from this Stage 1 ICO will be used to fund the pre-production of the first interactive show and develop interactive advertising packages for prospective advertisers. It will also fund elements of App development not covered by the Bepro grant. Funds raised may also be used to attach an A list actor to the project which would substantially increase its marketability.)
+* Create WorldBox DEX - This will contain a single liquidity pool of USDC which can only be swapped for WOX tokens, which are held in various Prize Pool wallets (established for each production built on the system), as well as in user wallets. WOX tokens of a value equivalent to each USDC input are auto-minted and sent to the relevant wallet(s), with said USDC being inserted into the liquidity pool. The DEX needs to keep track of the total circulating supply of WOX tokens and calculate their value according to Total USDC in the liquidity pool. WOX tokens are burnt when swapped for USDC. Incoming transactions (i.e USDC into the pool) are charged a 3% fee, outgoing transactions (i.e. USDC out of pool) are charged 10%. Half of these fees are sent to the WorldBox Dev wallet, the other half are returned to the liquidity pool.
+* Hold Stage 1 ICO - Backers pre-purchase a limited quantity of WOX tokens which will only be minted and airdropped just before the 1st production goes live. Backers will also be airdropped rare Earning Multiplier NFTs according to their invested amount.
 
 #### Development roadmap
 > WorldBox DEX - Estimated development time - **40 Days**
@@ -192,13 +189,12 @@ Not Applicable
 
 ### Milestone 4 — Production Content Creation and App Intergtation. Testing.
 
-* **Estimated Duration:** 3 months
-* **FTE:**  TBD
-* **Costs:** TBD
+* **Estimated Duration:** 90 Days
+* **FTE:**  17
+* **Costs:** $38 000
 
 * Create WorldBox NFT Market. This will be a simple auction system where users can put the various WorldBox NFTs up for auction using WOX as the unit of trade. Only WorldBox Devs would have access to a ‘buy now’ function to sell promotional NFTs at a set price for various productions and promotions.
 * Create NFT template which WorldBox devs can use to create the various NFTs for each production, taking into consideration that the attributes of these NFTs will need to be accessed en masse at the beginning of each episode to calculate various interaction and earning metrics. Artwork for each NFT will be a looping GIF based on content taken from its associated production.
-* Hold Stage 2 ICO - Offering a limited quantity of Tokenized WorldBox profit shares in the form of a profit share NFT. Wallets which hold these NFTs when a snapshot is taken at the close of each broadcast season will receive a share of the WorldBox profits generated during that season from advertising, dex and market revenue. This stage 2 ICO will look to fully fund the first WorldBox production in terms of the typical production process i.e. filming and post production.
 
 #### Development roadmap
 > WorldBox NFT - Estimated development time - **35 Days**
@@ -225,11 +221,10 @@ Not Applicable
 
 ### Milestone 5 — App design and implementation on Bepro testnet. Pre-Production process. Interactive Advertising test. Payment gateway testing.
 
-* **Estimated Duration:** TBD
-* **FTE:**  TBD
-* **Costs:** TBD
+* **Estimated Duration:** 180 days
+* **FTE:**  52
+* **Costs:** $100 000
 
-* As above, this stage includes app and broadcast elements outside of the scope of Bepro base code and grant, but are included here to provide clarity due to how they interact with each other.
 * Create the WorldBox App which integrates all the utilities developed in previous Milestone (i.e. Wallet, Dex and Market).
 * Develop core UI and UX in terms of show interaction and video streaming. This will be done in template format to streamline the development and rollout of future interactive productions on the system.
 * Standard web based profile creation which (once a profile has been verified) will be recorded to an NFT. Network fees relating to NFT creation TBD.
@@ -243,13 +238,12 @@ Not Applicable
 * Test Interactive Advertising Templates, Rollout and reward calculation and distribution.( See section below for more details)
 * Integrate and test Visa/Master card function which allows users to buy WOX tokens directly through the app. The system would need to buy USDC externally, then mint and distribute WOX tokens to wallets accordingly.
 * Creation of 6 mini-game templates (as per production development document) for integration into each production.
-* Pre-production (interactive story structure, scripting, art design, casting, contracts etc.)
 * Film and design low budget video sequence placeholders for system testing.
 * Create example interactive advert for testing as well as marketing demo for advertisers.
 * Sign Interactive Advertising and Broadcast sponsors for first show.
 
 #### Development roadmap
-> WorldBox App - Estimated development time - **365 Days**
+> WorldBox App - Estimated development time - **290 days**
 >
 > Includes unit tests & documentation
 * Root Page - 21 Days
@@ -268,9 +262,9 @@ Not Applicable
 
 ### Milestone 6 — Production Content Creation and App Intergtation. Testing.
 
-* **Estimated Duration:** 8-10 months
-* **FTE:**  TBD
-* **Costs:** TBD
+* **Estimated Duration:** 28 Days
+* **FTE:**  6
+* **Costs:** $12 000
 
 * Filming and post production (Primary content creation for first broadcast.)
 * Format and conform video content to WorldBox System, switch out low budget placeholders.
@@ -310,7 +304,7 @@ Not Applicable
 * - Begin developing the data miner which collects audience input in such a way as to map out narrative patterns. With a working, profitable system in place we will be looking to partner up with companies who are working on Artificial Neural Networks, such as OpenAI.
 * - Look to license the broadcast system to established shows (such as Survivor and The Bachelorette) which can be rejuvenated through the incorporation of audience input.
 * - Look to license the content and app to major streaming platforms (such as Netflix) - Although we will be looking to make these agreements from a much earlier stage as part of our film production phase.
-
+* - WorldBox Film Factory -  In later stages we will be opening up the platform to independant film makers who, with the support of the WorldBox team, will be able to pitch new interactive projects to token holders. This will allow viewers to directly fund the productions they want to see using WorldBox tokens, and recieve a portion of revenue generated by that production in return. Decentralised film making! Content by the people, for the people.
 
 
 ## Additional Information :heavy_plus_sign:
