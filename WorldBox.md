@@ -221,7 +221,7 @@ Not Applicable
 
 ### Milestone 5 — App design and implementation on Bepro testnet. Pre-Production process. Interactive Advertising test. Payment gateway testing.
 
-* **Estimated Duration:** 180 days
+* **Estimated Duration:** 290 days
 * **FTE:**  52
 * **Costs:** $100 000
 
