@@ -6,7 +6,7 @@
 
 * **Project Name:** UCO Network
 * **Team Name:** Treasure Fusion
-* **Payment Address:** 0x2c847F4a0B6633d3B19DE457007473025f6d23cb (BEPRO)
+* **Payment Address:** 0x0fe18d5ef5250f14e1cc8cf1f2fa5f5051e1f026 (BEPRO)
 
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
@@ -55,7 +55,7 @@ Help us locate your project in the Blockchain landscape and what problems it tri
 
 * **Contact Name:** Luis Pedro Rodrigues Durães
 * **Contact Email:** luisduraes@treasurefusion.pt
-* **Website:** https://www.uconetwork.com
+* **Website:** https://uco.network
 
 ### Legal Structure
 
