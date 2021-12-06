@@ -4,7 +4,7 @@
 >
 > See the [Grants Program Process](https://github.com/bepronetwork/grants-program/#pencil-process) on how to submit a proposal.
 
-* **Project Name:** UCO Network
+* **Project Name:** Waste 2 Wealth (W2W)
 * **Team Name:** Treasure Fusion
 * **Payment Address:** 0x0fe18d5ef5250f14e1cc8cf1f2fa5f5051e1f026 (BEPRO)
 
@@ -16,10 +16,10 @@
 
 Please provide the following:
 
-* UCO Network (used cooking oil network).
-* A Blockchain for Advanced BioFuels.
+* UCO Network (Used Cooking Oil Network).
+* A Blockchain Solution that contributes for an efficient waste traceability and mitigates the risk of fraud in Advanced BioFuels Production.
 * An indication of how your project relates to / integrates into Bepro Network / Bepro-js
-* We are interested in creating a ecosystem that awards who is enviromental friend trough waste to wealth and all the stakeholder´s.
+* We are creating an ecosystem that promotes environmental sustainable behaviors and rewards its participants.
 
 ### Project Details
 
@@ -37,11 +37,22 @@ We expect the teams to already have a solid idea about your project's expected f
 
 Help us locate your project in the Blockchain landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem? A high demand of UCO (used cooking oil) combined with limited supply requires strong rules and regulations, but current rules and regulations lead to a non-transparent certification process of the sustainability of UCO.
-* Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? Our user base.
-* What need(s) does your project meet?
+* Where and how does your project fit into the ecosystem? A high demand of UCO (used cooking oil) combined with limited supply requires strong rules and regulations. Current rules and regulations lead to a non-transparent certification process of the sustainability of UCO – that is a opportunity for bad actors.
+
+* Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? Our user base. UCO Producers (i.e. Restaurants, Families), Waste Collection Companies and Transport Companies, BioFuel Producers (Plants), UCO Trading Companies, Audit Companies.
+
+* What need(s) does your project meet? UCO Network addresses the needs originating from the below market problems:
+High UCO demand for Biofuel production - Needs transparency, verification and traceability solutions
+Fraud Opportunity - current certification, audit and sustainability systems are insufficient to prevent fraud
+UCO Supply chain monitoring and control systems are not secure or streamlined
+Auditors cannot look into each other’s information systems – No harmonized tools
+Difficult to prove or rely on provenance data
+No single source of truth for sustainable UCO production, such as a blockchain
+Biofuel Producers struggle to find verified/certified UCO when they need it
+Compliance with EU RED II is needed
+
 * Are there any other projects similar to yours in the BEPRO Network ecosystem? No
-  * If so, how is your project different?
+  * If so, how is your project different? Our project addresses the specific problems of the UCO market.
   * If not, are there similar projects in related ecosystems? No
 
 ## Team :busts_in_silhouette:
@@ -54,7 +65,7 @@ Help us locate your project in the Blockchain landscape and what problems it tri
 ### Contact
 
 * **Contact Name:** Luis Pedro Rodrigues Durães
-* **Contact Email:** luisduraes@treasurefusion.pt
+* **Contact Email:** lpd@uco.network
 * **Website:** https://uco.network
 
 ### Legal Structure
@@ -95,7 +106,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
-* academic publications relevant to the problem,
+* academic publications relevant to the problem, https://cedelft.eu/wp-content/uploads/sites/2/2021/04/CE_Delft__200247_UCO_as_biofuel_feedstock_in_EU_FINAL-v5.pdf
 * links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
 * references to conversations you might have had related to this project with anyone from the bepro network core team,
 * previous interface iterations, such as mock-ups and wireframes.
@@ -121,27 +132,20 @@ To assist you in defining it, we have created a document with examples for some 
 
 ### Overview
 
-* **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-* **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding _needs to be below $30k for initial grants. This and the costs for each milestone need to be in USD; if the grant is paid out in BEPRO,the amount will be sent in BEPRO directly.
+* **Total Estimated Duration:** Duration of the whole project - 24 months
+* **Full-Time Equivalent (FTE):**  6
+* **Total Costs:** 10M Bepro
 
-### Milestone 1 Example — Implement First Modules
+### Milestone 1 — UCO Network Branding, Website and Social Media Launch
 
-* **Estimated duration:** 1 month
-* **FTE:**  2
-* **Costs:** 8,000 USDC
+* **Estimated duration:** 16 Weeks
+* **FTE:**  1
+* **Costs:** 3M BEPRO
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | module: X | We will create a module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | module: Y | We will create a module that will... |  
-| 3. | module: Z | We will create a module that will... |  
-| 4. | chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+| 0a. | Branding| Brand Manual (Band Identity / Brand Strategy and Narrative / Art Direction / Tone of Voice)|
+| 0b. | Website Development | Web/UI/UX Design and Content|
 
 
 ### Milestone 2 Example — Additional features
