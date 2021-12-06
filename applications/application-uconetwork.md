@@ -4,8 +4,8 @@
 >
 > See the [Grants Program Process](https://github.com/bepronetwork/grants-program/#pencil-process) on how to submit a proposal.
 
-* **Project Name:** Waste 2 Wealth (W2W)
-* **Team Name:** Treasure Fusion
+* **Project Name:** UCO Network
+* **Team Name:** Waste 2 Wealth (W2W)
 * **Payment Address:** 0x0fe18d5ef5250f14e1cc8cf1f2fa5f5051e1f026 (BEPRO)
 
 
