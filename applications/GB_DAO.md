@@ -4,9 +4,9 @@
 >
 > See the [Grants Program Process](https://github.com/bepronetwork/grants-program/#pencil-process) on how to submit a proposal.
 
-* **Project Name:** Name of your project (e.g. DuoSwap Module)
-* **Team Name:** Legal name of your team (e.g. Duo)
-* **Payment Address:** BEPRO or USDC payment address. We don't accept payments for the program in other currencies at this stage. If this is an Ethereum address, please specify BEPRO or USDC. (e.g. 0x8920... (DAI))
+* Project Name: GetBoarded
+* Team Name:
+* Payment Address:** BEPRO or USDC payment address. We don't accept payments for the program in other currencies at this stage. If this is an Ethereum address, please specify BEPRO or USDC. (e.g. 0x8920... (DAI))
 
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
@@ -49,13 +49,13 @@ Help us locate your project in the Blockchain landscape and what problems it tri
 ### Team members
 
 * Shivam Dhawan
-* RamG, Ricardo
+* Marta, RamG, Rupesh, Srajan, Ricardo, Punnet, Aman
 
 ### Contact
 
-* **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. john@duo.com)
-* **Website:**
+* Contact Name: Shivam
+* Contact Email: info@getboarded.com
+* Website: www.getboarded.com
 
 ### Legal Structure
 
@@ -79,13 +79,15 @@ Please list the name of the project and legal entity here.
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-* https://github.com/CCCric
-* https://github.com/<team_member_2>
+* Shivam - https://github.com/GetboardedTech / https://github.com/shvmdhwn
+* Puneet - https://github.com/ipuneetgupta
+* Marta - https://github.com/martamatias
+* Aman - https://github.com/Amanb1145
+* Rupesh - https://github.com/rupesh2025
 
 ### Team LinkedIn Profiles (if available)
 
 * https://www.linkedin.com/in/shivamdhawan/
-* https://www.linkedin.com/<person_2>
 
 ## Development Status :open_book:
 
