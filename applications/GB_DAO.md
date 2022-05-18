@@ -14,12 +14,12 @@
 
 ### Overview
 
-Please provide the following:
-
-* If the name of your project is not descriptive, a tag line (one sentence summary).
-* A brief description of your project.
-* An indication of how your project relates to / integrates into Bepro Network / Bepro-js
-* An indication of why your team is interested in creating this project.
+GetBoarded aims to reimagine work, careers, and its related financial transactions in community-led people ecosystems.
+People work for multiple Organizations, DAOs and have multiple income streams based on value that they add.
+This differs from the gig economy in a way that no one corporation is managing these jobs - people work
+towards providing value instead of selling their time in the traditional work model.
+Own the end result, as well as owning part of the community itself.
+The GetBoarded DAO will tackle all this.
 
 ### Project Details
 
