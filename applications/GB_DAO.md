@@ -14,35 +14,74 @@
 
 ### Overview
 
-GetBoarded aims to reimagine work, careers, and its related financial transactions in community-led people ecosystems.
-People work for multiple Organizations, DAOs and have multiple income streams based on value that they add.
-This differs from the gig economy in a way that no one corporation is managing these jobs - people work
-towards providing value instead of selling their time in the traditional work model.
-Own the end result, as well as owning part of the community itself.
+A DAO tooling platform to manage talent in a decentralized manner
+
+GetBoarded aims to reimagine work, careers, and financial transactions in a decentralized community-led people ecosystems.
+Let's imagine a better world and build the tools to enable that vision where people have a possibility to work for multiple Organizations.
+Anyone can join the DAOs and have multiple income streams based on value that they add.
+This differs from the gig economy in the way that no one corporation is managing these jobs, people work towards a value instead of selling
+their time in the traditional work model.
+Here people can join multiple organizations and communities to get a collective feed from all of them.
+This way they can prioritize their commitments to skill & interest-based workstream.
 The GetBoarded DAO will tackle all this.
+
+BePro is itself a community of developers and web3 evangelists working together to provide frameworks to scale development and
+initiatives in blockchain. We aim to develop web3 components for DAO tooling.
+The components could be treasury, voting (judiciary), open projects, governance, communication and other productivity tools.
+
+The future workplaces will be community-driven, people-focused, and technologically assisted.
 
 ### Project Details
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
 * Mockups/designs of any UI components
-* Data models / API specifications of the core functionality
+https://www.figma.com/file/TLSEoR9lcEL4vDUmmHV9bx/gtbrdd?node-id=0%3A1
+
 * An overview of the technology stack to be used
+Web project in VUE stack with Node.js backend.
+Web3 libraries being used: WalletConnect for User Login and NFT profile pic, Explore use of Superfluid for payments,
+Uniswap for LP creation, and pricing, BadgerDAO for Yield Farming Strategy, Gnosis Safe for multisig approvals,
+Covalent for DAO Transparency Dashboards with One Unified API,  Use of Org setup and Login with Unstoppable Domains
+
 * Documentation of core components, protocols, architecture, etc. to be deployed
+https://github.com/getboarded-technology/banked
+
 * PoC/MVP or other relevant prior work or research on the topic
-* What your project is _not_ or will _not_ provide or implement
-  * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+Banked.getboarded.com
+This simple POC provides a framework to extend the types of assignments: like project work, learning and development,
+or simple rewards like follow of twitter and get XPs,
+It can also be extended by types of validations, like through community voting, or by uploading a proof to be verified by admins, etc.
+The tool can be multi network and multi-currency and with BANKED you can manage all your funds and currencies easily
+while tracing all the movement of funds on-chain.
+
+We have developed stand-alone POCs to test and validate the logical user flows. Banked.getboarded.com is once such POC
+that was developed to create a treasury to add a Web3 flow to GetBoarded. Objective is to create an innovative multi network treasury
+that can have micro credit distribution to its community members with a multi-sig approval mechanism.
 
 ### Ecosystem Fit
 
 Help us locate your project in the Blockchain landscape and what problems it tries to solve by answering each of these questions:
 
 * Where and how does your project fit into the ecosystem?
+We are building tools for the next generation of DAOs for skill visibility, talent development and ecosystem management.
+BePro network and its community would benefit from our solutions by forking or integrating our open tooling platform.
+
 * Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+Our own user base, other project developers.
+
 * What need(s) does your project meet?
+DAOs in the current form are exciting new concepts that need to gather adoption outside of crypto communities.
+For this, general user experience and participations needs to improve.
+Organizations of today's world are operating more like people driven online ecosystems more so because of the shift
+to digital-first work scenarios. A need of tools that can help manage and operate these ecosystems has emerged.
+We are building modular apps market where you can combine apps to custom build an Organizational system to operate a community.
+
 * Are there any other projects similar to yours in the BEPRO Network ecosystem?
-  * If so, how is your project different?
-  * If not, are there similar projects in related ecosystems?
+We have not encountered a tooling platform as we are envisioning in the ecosystem.
+However, other projects may have an integration possibility with the tools we are developing.
+
+* If not, are there similar projects in related ecosystems?
+Yes, many projects are coming up to provide tools specifically catering to the digital and web3 operating communities.
+There have been hackathons conducted by ETH.DAOHack and Encode club DAO to encourage development in this space.
 
 ## Team :busts_in_silhouette:
 
