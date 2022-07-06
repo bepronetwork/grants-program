@@ -94,7 +94,7 @@ $BEPRO is a utility token that grants access to the Services. $BEPRO is not inte
 
 I. IDEMNIFICATION
 
-You agree to indemnify and hold harmless each member of Betblock and their respective directors, officers, employees, agents, contractors and licensors (together, the “Associated Parties”) immediately upon demand from and against any and all claims, demands, lawsuits, actions, proceedings, investigations, liabilities, damages, losses, costs or expenses, including reasonable attorneys’ fees, in any way arising out of, in relation to or in connection with, directly or indirectly, your or your authorised representatives: a) use of, or conduct in connection with, the Services; b) breach of these Terms or any other of Our policies; or c) violation of any Applicable Law or the rights of any other person or entity.
+You agree to indemnify and hold harmless each member of TAIKAI and their respective directors, officers, employees, agents, contractors and licensors (together, the “Associated Parties”) immediately upon demand from and against any and all claims, demands, lawsuits, actions, proceedings, investigations, liabilities, damages, losses, costs or expenses, including reasonable attorneys’ fees, in any way arising out of, in relation to or in connection with, directly or indirectly, your or your authorised representatives: a) use of, or conduct in connection with, the Services; b) breach of these Terms or any other of Our policies; or c) violation of any Applicable Law or the rights of any other person or entity.
 
 J. ABSENCE OF WAIVER
 
