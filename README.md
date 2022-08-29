@@ -61,11 +61,10 @@ For questions about the grants program itself, see our [FAQ](./src/faq.md#freque
 
 The committee consists of individuals who know the funding priorities of the Bepro ecosystem, and is responsible for evaluating grant applications and providing feedback on these.
 
-- [Rui Pedro](https://github.com/ruiub3i)
+- [Mario Alves](https://github.com/supermalvo)
+- [Helder Vasconcelos](https://github.com/hvasconcelos)
 - [Joao Gonçalves](https://github.com/moshmage)
-- [Filipe Pinho](https://github.com/filipe-bepro)
-- [Andre Moniz](https://github.com/andremoniz)
-- [Justin Wu](https://github.com/thewujustin)
+- [Henrique Macedo](https://github.com/henriquemacedo)
 
 ## :pencil: Process
 
