@@ -6,7 +6,7 @@
 
 * **Project Name:** UCO Network
 * **Team Name:** Waste 2 Wealth (W2W)
-* **Payment Address:** 0x0fe18d5ef5250f14e1cc8cf1f2fa5f5051e1f026 (BEPRO)
+* **Payment Address:** 0x23eCDd7fF6874437EAa9C40a0C7a803Eeb9e6adF (BEPRO)
 
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
