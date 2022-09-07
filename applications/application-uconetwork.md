@@ -70,8 +70,8 @@ Compliance with EU RED II is needed
 
 ### Legal Structure
 
-* **Registered Address:** Rua Infante D. Henrique nº56, 4750-271, Barcelos, Portugal (PT)
-* **Registered Legal Entity:** Treasure Fusion uni Lda
+* **Registered Address:** Keemia tn 4 Kristiine linnaosa, Tallinn Harju maakond 10616, Estônia
+* **Registered Legal Entity:** UCO Network OU
 
 
 ### Team's Location
@@ -148,11 +148,16 @@ To assist you in defining it, we have created a document with examples for some 
 | 0b. | Website Development | Web/UI/UX Design and Content|
 
 
-### Milestone 2 Example — Additional features
+### Milestone 2  — Private Sale Launch
 
 * **Estimated Duration:** 1 month
 * **FTE:**  1
-* **Costs:** 4,000 USDC
+* **Costs:** 1M BEPRO
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0a. | KYC| Token Sale Website |
+| 0b. |Community Growth | Social Media Growth|
 
 ...
 
